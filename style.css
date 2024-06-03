@@ -82,6 +82,7 @@ p:last-child {
 
 a {
     color: inherit;
+    text-decoration: none;
 }
 
 a:hover { color: #a2745c; }
