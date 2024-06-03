@@ -1,5 +1,175 @@
----
-layout: default
-title: Homepage
----
-<h1>Welcome to your homepage!</h1>
+<!DOCTYPE html>
+<html>
+
+<!-------------------- this is the HEAD ------------------------->
+<head>
+    <title> Portfolio Website </title>
+
+    <!-- Viewport meta tag -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Gridlex -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.7.1/gridlex.min.css">
+
+    <!-- Fontawesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- Google Fonts 'Source Sans Pro', sans-serif; -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;1,200;1,300;1,400;1,600&display=swap" rel="stylesheet">  
+
+    <!-- My own custom stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+
+</head>
+
+<!-------------------- this is the BODY -------------------------->
+<body>
+    <!----------- header --------------------------->
+    <header class="grid">
+        <div class="col-5_sm-12-middle padded-0 sm-center">
+            <h1>The Design Collective.</h1>
+        </div>
+        <nav class="col-7_sm-12-middle right padded-0 sm-center">
+            <a href="#why-us">Why Us</a>
+            <a href="#services">Services</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <!---------- header banner --------------------->
+    <section class="grid-middle padded bg-image bg-plant tall-70">
+        <div class="col-8_sm-10">
+            <h2>Website design & development that grows with your business</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consequuntur alias aut tempore explicabo soluta similique sint, labore quam quas impedit accusamus molestiae sit dolor nisi aperiam, at quaerat quis?</p>
+        </div>
+    </section>
+    <!----------- Newsletter CtA ------------------->
+    <section class="center bg-dark light-text padded">
+        <a href="#" class="button"> Sign up to our newsletter to access free design resources >> </a>
+    </section>
+
+    <!----------- Why Choose Us icon grid ---------->
+    <section class="grid padded center icon-section" id="why-us">
+        <div class="col-12-middle center padded-b">
+            <h2>Why Choose Us</h2>
+        </div>
+        <!-- col 1 -->
+        <div class="col-3_sm-6_xs-12">
+            <img src="/images/icons/flash.png" alt="flash Icon">
+            <h4> Lightning Fast</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti voluptate aute, voluptatum quos vel. </p>
+        </div>
+
+        <!-- col 2 -->
+        <div class="col-3_sm-6_xs-12">
+            <img src="/images/icons/idea-2.svg" alt="Idea Icon">
+            <h4> Strategic Perspective</h4>
+            <p>Quidem officia neque quia magni, rem et. Accusamus, veritatis quaerat eligendi omnis officiis eaque? Perspiciatis!</p>
+        </div>
+
+        <!-- col 3 -->
+        <div class="col-3_sm-6_xs-12">
+            <img src="/images/icons/seo-tag.png" alt="SEO Tag Icon">
+            <h4> Optimized for Google</h4>
+            <p>Veniam obcaecati porro earum iusto, officia fuga quae possimus, fugiat illum reprehenderit deserunt.</p>
+        </div>
+
+        <!-- col 4 -->
+        <div class="col-3_sm-6_xs-12">
+            <img src="/images/icons/dollar.svg" alt="Dollar Icon">
+            <h4> Modern E-Commerce</h4>
+            <p>Lorem ipsum dolor consectetur adipisicing elit. Quis libero quod voluptatibus vel eos expedita.</p>
+        </div>
+    </section>
+    <!----------- image grid ----------------------->
+    <section class="grid bg-green light-text padded">
+        <div class="col-7_sm-12 bg-image bg-meeting vh50">
+
+        </div>
+        <div class="col-5_sm-12-middle padded">
+            <h2>More than just another agency.</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. In animi quae, ipsam consequuntur accusantium placeat ab beatae totam facilis rem, quia eos ipsa dolore voluptatibus quas consectetur consequatur sequi dolorum.</p>
+            <p>Dolor sit amet consectetur, adipisicing elit. Ut assumenda dolor possimus incidunt placeat optio veritatis, ipsam distinctio officia, earum quos soluta sed tempora.</p>
+        </div>
+    </section>
+    
+    <!----------- Facebook CtA --------------------->
+    <section class="padded bg-dark light-text center">
+        <h3>We have a community of over 3500 entrepreneurs.</h3>
+        <a href="#" class="button">Join the Facebook-Community</a>
+    </section>
+
+    <!----------- Our Services --------------------->
+    <section class="grid-right bg-image bg-plant-2 padded center tall-70" id="services">
+        <!-- our services banner -->
+        <div class="col-6_sm-8-middle">
+            <h2>Our Services</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consequuntur alias aut tempore explicabo soluta similique sint, labore quam quas impedit accusamus molestiae sit dolor nisi aperiam, at quaerat quis?</p>
+        </div>
+    </section>
+        <!-- design build seo -->
+    <section class="grid padded">
+        <div class="col-4_xs-12 padded">
+            <h3>Design.</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae sequi repellendus vero officia praesentium sit consequuntur, harum id hic excepturi commodi, vitae minus neque dolore at illum nam libero necessitatibus.</p>
+        </div>
+        <div class="col-4_xs-12 padded">
+            <h3>Build.</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae sequi repellendus vero officia praesentium sit consequuntur, harum id hic excepturi commodi, vitae minus neque dolore at illum nam libero necessitatibus.</p>
+        </div>
+        <div class="col-4_xs-12 padded">
+            <h3>SEO.</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae sequi repellendus vero officia praesentium sit consequuntur, harum id hic excepturi commodi, vitae minus neque dolore at illum nam libero necessitatibus.</p>
+        </div>
+    </section>
+
+    <!----------- Recent Projects Grid ------------->
+    <section class="bg-rust padded" id="projects">
+        <h2 class="center">Recent Projects</h2>
+        <div class="grid">
+            <div class="col-6_sm-12-middle padded sm-center">
+                <h3>Zen Studio Website</h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa accusantium inventore et? Tempora veniam ut, nihil cupiditate, molestias quae labore dolorem earum, aliquam dolor eum similique tempore. Dolores, nemo dolorem.</p>
+                <a href="#" class="button">Go to Site</a>
+            </div>
+            <div class="col-6_sm-12-middle padded">
+                <img src="/images/placeholder-project.png" alt="project name by the collective">
+            </div>
+        </div>
+        <div class="grid sm-flex-flip">
+            <div class="col-6_sm-12-middle padded">
+                <img src="/images/placeholder-project.png" alt="project name by the collective">
+            </div>
+            <div class="col-6_sm-12-middle padded sm-center">
+                <h3>Another Website</h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa accusantium inventore et? Tempora veniam ut, nihil cupiditate, molestias quae labore dolorem earum, aliquam dolor eum similique tempore. Dolores, nemo dolorem.</p>
+                <a href="#" class="button">Go to Site</a>
+            </div>
+        </div>
+    </section>
+
+    <!----------- footer ---------->
+    <footer class="grid bg-dark light-text padded padded-b-0" id="contact">
+        <div class="col-7_sm-12 padded sm-center">
+            <h2 class="logo">The Design Collective.</h2>
+            <h3>Web Design & Development</h3>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat cumque et suscipit laboriosam quia.</p>
+        </div>
+        <div class="col-5_sm-12-bottom padded right sm-center">
+            <h3>Let's Connect.</h3>
+            <a href="#"><i class="fa-brands fa-pinterest-p"></i></a>
+            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+            <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+            <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+        </div>
+        <div class="col-12 center padded-t">
+            <p class="copyright">Copyright 2024</p>
+        </div>
+    </footer>
+
+</body>
+
+</html>
