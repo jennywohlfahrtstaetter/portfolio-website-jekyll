@@ -1,7 +1,59 @@
 ---
 layout: default
+banner_image: /images/plant.jpg
+team:
+ - name: Greg
+   bio: CEO
+   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente corrupti illum atque ea.
+   profile_image: /images/profile-1.jpg
+ - name: Joe
+   bio: Big Boss Coder
+   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente corrupti illum atque ea.
+   profile_image: /images/profile-2.jpg
+ - name: Mary
+   bio: Big Boss Coder
+   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente corrupti illum atque ea.
+   profile_image: /images/profile-3.jpg
+about-video-id: VWb59vBmjHY
 ---
 
-<section>
-    about
+<!---------- header banner --------------------->
+<section class="grid vh60 bg-green">
+    <div class="col-5-middle_sm-10-middle editable padded light-text">
+        <h2>Meet our growing family</h2>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consequuntur alias aut tempore explicabo soluta similique sint, labore quam quas impedit accusamus molestiae sit dolor nisi aperiam, at quaerat quis?</p>
+    </div>
+    <div class="col-7 bg-image bg-plant" style="background-image: url('{{page.banner_image}}');"></div>
+</section>
+
+<!-- team members in jekyll loop -->
+<section class="padded">
+    <!-- best practice to put capped width inside a section to not mess with any background images or colors applied to the overall section later -->
+    <div class="capped-width"> 
+
+        {% for person in page.team %}
+
+        <div class="grid flex-flip-alternate"> 
+            <div class="col-5 padded-2"> 
+                <img src="{{person.profile_image}}" alt="{{person.name}}" class="profile-image">
+            </div>
+            <div class="col-7-middle padded-1"> 
+                <h3> Meet {{person.name}}</h3>
+                <p> <strong> {{person.bio}} </strong></p>
+                <p> {{person.description}}</p>
+            </div>
+        </div>
+
+        {% endfor %}
+    </div>
+</section>
+
+<!-- team video -->
+<section class="padded bg-green center">
+    <h2 class="editable">Watch our corny meet the team video</h2>
+    <p class="emphasis editable">Featured J-Bomb the Terrier</p>
+    <div class="padded-1">
+        <div class='embed-container'><iframe src='https://www.youtube.com/embed/{{page.about-video-id}}' frameborder='0' allowfullscreen></iframe></div>
+    </div>
+
 </section>
