@@ -34,6 +34,9 @@ html {
 .padded-b-0 { padding-bottom: 0; }
 .margin-b-0 { margin-bottom: 0; }
 
+.margin-b-1 { margin-bottom: 1rem;}
+.margin-b-2 { margin-bottom: 2rem;}
+
 .bg-rust  { background-color: #d3b4a2; }
 .bg-green { background-color: #9b9b81; }
 .bg-dark  { background-color: #a2745c; }
@@ -102,8 +105,9 @@ p:last-child {
 
 a {
     color: inherit;
-    text-decoration: none;
 }
+
+header a { text-decoration: none;}
 
 a:hover { color: #a2745c; }
 
@@ -114,6 +118,25 @@ a:hover { color: #a2745c; }
     display: inline-block;
     font-weight: 400;
     color: white;
+}
+
+.button2 {
+    text-decoration: none;
+    border: 2px solid; 
+    padding: 0.5rem 1rem;
+    display: inline-block;
+    font-weight: 400;
+    color: #a2745c;
+}
+
+/* .button2:hover {
+    color: white;
+    background-color: #a2745c;
+    border-color: #a2745c;
+} */
+
+.button2:hover {
+    color: #d3b4a2;
 }
 
 .bg-dark .button:hover {
@@ -174,6 +197,12 @@ footer a:hover {
     background-image: url('/images/meeting.jpg');
 }
 
+.right-arrow {
+    max-width: 2.4rem;
+    margin-left: 1rem;
+    margin-top: 0.2rem;
+}
+
 .landscape {
     padding-bottom: 60%;
 }
@@ -200,6 +229,14 @@ footer a:hover {
 
 
 /* media queries */
+/* MEDIUM - md - max-width in pixels approximately  */
+
+@media(max-width: 64em) {
+
+    .md-center { text-align: center; }
+
+}
+
 /* SMALL - SM - max-width in pixels approximately 768px */
 @media(max-width: 48em) {
 
