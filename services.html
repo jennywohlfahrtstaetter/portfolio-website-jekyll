@@ -1,7 +1,64 @@
 ---
 layout: default
+features:
+- title: Beautiful Designs
+  description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, laboriosam! Quasi architecto est doloremque deserunt velit eos.
+  featured_image: /images/placeholder-project.png
+- title: Optimized Builds
+  description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, laboriosam! Quasi architecto est doloremque deserunt velit eos.
+  featured_image: /images/placeholder-project.png
 ---
 
-<section>
-    services
+<!---------- header banner --------------------->
+<section class="grid-middle-right padded bg-image bg-plant-2 vh70">
+    <div class="col-7_sm-10 right editable">
+        <h2>Our Services</h2>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consequuntur alias aut tempore explicabo soluta similique sint, labore quam quas impedit accusamus molestiae sit dolor nisi aperiam, at quaerat quis?</p>
+    </div>
+</section>
+
+<!-- design build design&build grid -->
+<section class="padded bg-green">
+    <!-- grid muss in capped width div übertragen werden -->
+    <div class="capped-width grid">
+        <div class="col-4_sm-12 padded">
+            <h3>Design.</h3>
+            <p class="light-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae sequi repellendus vero officia praesentium sit consequuntur, harum id hic excepturi commodi, vitae minus neque dolore at illum nam libero necessitatibus.</p>
+        </div>
+        <div class="col-4_sm-12 padded">
+            <h3>Build.</h3>
+            <p class="light-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae sequi repellendus vero officia praesentium sit consequuntur, harum id hic excepturi commodi, vitae minus neque dolore at illum nam libero necessitatibus.</p>
+        </div>
+        <div class="col-4_sm-12 padded">
+            <h3>Design & Build. </h3>
+            <p class="light-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae sequi repellendus vero officia praesentium sit consequuntur, harum id hic excepturi commodi, vitae minus neque dolore at illum nam libero necessitatibus.</p>
+        </div>
+        <div class="col-12 center">
+            <a href="/contact.html" class="button">Get in touch!</a>
+        </div>
+    </div>
+</section>
+
+<!--  newsletter signup  ----------------------->
+{% include newsletter-signup.html %}
+
+<!----------- Recent Projects Grid ------------->
+<section class="padded">
+    <h2 class="center"> Optimized Builds</h2>
+
+    {% for item in page.features %}
+
+    <div class="grid flex-flip-alternate">
+        <div class="col-6_sm-12-middle padded sm-center">
+            <h3>{{item.title}}</h3>
+            <p>{{item.description}}</p>
+        </div>
+        
+        <div class="col-6_sm-12-middle padded">
+            <img src="{{item.featured_image}}" alt="{{item.title}}">
+        </div>
+    </div>
+
+    {% endfor %}
+    
 </section>

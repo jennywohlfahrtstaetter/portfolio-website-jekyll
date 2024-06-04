@@ -96,7 +96,7 @@ p {
  	font-weight: 300;   
  	line-height: 1.3;
  	margin-bottom: 0.8rem;
- 	font-size: 1rem;
+ 	font-size: 1.1rem;
 }
 
 p:last-child {
@@ -105,6 +105,7 @@ p:last-child {
 
 a {
     color: inherit;
+    font-size: 1.1rem;
 }
 
 header a { text-decoration: none;}
@@ -127,15 +128,19 @@ a:hover { color: #a2745c; }
     display: inline-block;
     font-weight: 400;
     color: #a2745c;
+    background-color: white;
+    cursor: pointer;
 }
 
-/* .button2:hover {
-    color: white;
-    background-color: #a2745c;
-    border-color: #a2745c;
-} */
-
 .button2:hover {
+    color: #d3b4a2;
+}
+
+.newsletter-link {
+    text-decoration: none;
+}
+
+.newsletter-link:hover {
     color: #d3b4a2;
 }
 
@@ -146,6 +151,8 @@ a:hover { color: #a2745c; }
 nav a {
     text-decoration: none;
     padding: 0.25rem;
+    margin: 0.25rem;
+    font-size: 1.2rem;
 }
 
 /* ------- Header & Footer ----------- */
@@ -208,7 +215,6 @@ footer a:hover {
 }
 
 
-
 /* video */
 .embed-container { 
     position: relative; 
@@ -228,14 +234,59 @@ footer a:hover {
 }
 
 
+/* --------- contact form ---------- */
+form input, 
+form textarea {
+  width: 100%;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  border: 2px solid #a2745c;
+  outline: none;
+  font-family: inherit;
+  font-size: 0.9rem;
+}
+
+form input:focus,
+form textarea:focus {
+  border-color: #d3b4a2;
+}
+
+textarea {
+  min-height: 4rem;
+}
+
+form label {
+  margin-top: 1rem;
+  display: block;
+  color: #a2745c;
+  font-weight: bold;
+}
+
+form .button2 {
+  background-color: none;
+  color: #a2745c;
+  border: 2px solid #a2745c;
+  padding: 0.5rem 2rem;
+  letter-spacing: 0.1em;
+  margin-top: 1rem;
+  font-weight: bold;
+} 
+
+
+
+
+
 /* media queries */
 /* MEDIUM - md - max-width in pixels approximately  */
 
 @media(max-width: 64em) {
 
+    .md-hide { display: none; }
+
     .md-center { text-align: center; }
 
 }
+
 
 /* SMALL - SM - max-width in pixels approximately 768px */
 @media(max-width: 48em) {
