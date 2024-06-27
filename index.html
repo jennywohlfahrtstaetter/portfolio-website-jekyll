@@ -1,5 +1,13 @@
 ---
 layout: default
+title: Home
+seo:
+  title: Home
+  description:
+  social_image:
+  twitter_card:
+  keywords:
+  hide-from-google: false
 ---
 
     <!---------- header banner --------------------->
@@ -11,7 +19,12 @@ layout: default
     </section>
    
     <!-- consultation CTA -->
-    {% include consultation-CTA.html %}
+     <div class="sm-hide">
+        {% include consultation-CTA.html %}
+    </div>
+    <div class="sm-show">
+        {% include responsive-CTA.html %}
+    </div>
 
     <!----------- Why Choose Us icon grid ---------->
     <section class="grid padded center icon-section" id="why-us">
@@ -58,8 +71,10 @@ layout: default
         </div>
     </section>
     
-{% include responsive-CTA.html %}
-
+    <!-- responsive CTA -->
+    <div class="sm-hide">
+        {% include responsive-CTA.html %}
+    </div>
     <!----------- Our Services --------------------->
     <section class="grid-right bg-image bg-plant-2 padded center tall-70" id="services">
         <!-- our services banner -->
