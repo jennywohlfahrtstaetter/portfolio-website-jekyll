@@ -10,13 +10,13 @@ layout: default
         </div>
     </section>
    
-    <!-- newsletter signup -->
-    {% include newsletter-signup.html %}
+    <!-- consultation CTA -->
+    {% include consultation-CTA.html %}
 
     <!----------- Why Choose Us icon grid ---------->
     <section class="grid padded center icon-section" id="why-us">
-        <div class="col-12-middle center padded-b">
-            <h2>Why Choose Us</h2>
+        <div class="col-12-middle center padded-b-1">
+            <h2>Why Choose Us.</h2>
         </div>
         <!-- col 1 -->
         <div class="col-3_sm-6_xs-12">
@@ -58,17 +58,13 @@ layout: default
         </div>
     </section>
     
-    <!----------- Facebook CtA --------------------->
-    <section class="padded bg-dark light-text center">
-        <h3>We have a community of over 3500 entrepreneurs.</h3>
-        <a href="#" class="button">Join the Facebook-Community</a>
-    </section>
+{% include responsive-CTA.html %}
 
     <!----------- Our Services --------------------->
     <section class="grid-right bg-image bg-plant-2 padded center tall-70" id="services">
         <!-- our services banner -->
         <div class="col-6_sm-8-middle">
-            <h2>Our Services</h2>
+            <h2>Our Services.</h2>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consequuntur alias aut tempore explicabo soluta similique sint, labore quam quas impedit accusamus molestiae sit dolor nisi aperiam, at quaerat quis?</p>
         </div>
     </section>
@@ -90,7 +86,7 @@ layout: default
 
     <!----------- Recent Projects Grid ------------->
     <section class="bg-rust padded" id="projects">
-        <h2 class="center">Recent Projects</h2>
+        <h2 class="center">Recent Projects.</h2>
 
         {% for project in site.projects limit: 2 %}
 

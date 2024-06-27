@@ -15,6 +15,7 @@ html {
 }
 
 /* --------- Utility Classes ----------- */
+.vh20 { min-height: 20vh;}
 .vh50 { min-height: 50vh; }
 .vh60 { min-height: 60vh; }
 .vh70 { min-height: 70vh; }
@@ -29,6 +30,8 @@ html {
 .padded-b  { padding-bottom: 5%; }
 .padded-l  { padding-left: 5%;   }
 .padded-r  { padding-right: 5%;  }
+
+.padded-b-05 {padding-bottom: 0.5rem;;}
 
 .padded-0 { padding: 0; }
 .padded-b-0 { padding-bottom: 0; }
@@ -84,13 +87,9 @@ h2,h3,h4,h5,h6 {
     letter-spacing: -0.01em;
 }
 
-h2 {
-    font-size: 2.5rem;
-}
-
-h3 {
-    font-size: 1.8rem;
-}
+h2 { font-size: 2.5rem;}
+h3 { font-size: 1.8rem;}
+h4 { font-size: 1.4rem;}
 
 p {
  	font-weight: 300;   
@@ -136,11 +135,12 @@ a:hover { color: #a2745c; }
     color: #d3b4a2;
 }
 
-.newsletter-link {
+.cta-link {
     text-decoration: none;
+    display: flex;
 }
 
-.newsletter-link:hover {
+.cta-link:hover {
     color: #d3b4a2;
 }
 
@@ -176,6 +176,13 @@ footer a:hover {
     font-size: 1.4rem;
     padding: 0.4rem;
     margin: 0.2rem;
+}
+
+.fa-solid { 
+    display: inline-block;
+    margin-left: 0.5rem;
+    margin-top: 0.25rem;
+    font-size: 0.9rem;
 }
 
 /* ------------ image styles --------- */
@@ -296,6 +303,7 @@ form .button2 {
     .sm-center { text-align: center; }
 
     .sm-flex-flip { flex-direction: column-reverse; }
+    .sm-padded-t {padding-top: 5%;}
 
     .bg-plant {
         background-image: url('/images/plant-light.png');
