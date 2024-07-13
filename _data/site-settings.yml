@@ -5,8 +5,8 @@ seo:
   keywords: Web-Development, WebDev
   social_image: 
   author: 
-  favicon_image: 
-social: ##notwendig??
+  favicon_image: /images/favicon.png
+social:
   instagram_username:
   facebook_url:
   twitter_username: 
