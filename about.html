@@ -5,35 +5,32 @@ title: About
 team:
  - name: Patrick
    bio: Webdesign & Webdevelopment
-   description: With a foundation in civil engineering and a passion for technology, I bring a unique perspective to web development. My journey began with a career in civil engineering, where I honed my problem-solving skills and attention to detail on diverse projects around the world. Inspired by my travels and a fascination with digital innovation, I transitioned into web development to blend creativity with technical expertise. Today, I specialize in designing and developing intuitive, user-centric websites that not only meet but exceed client expectations. My background in civil engineering has instilled in me a disciplined approach to project management and a commitment to delivering robust digital solutions. 
+   description: With a foundation in civil engineering and a passion for technology, Patrick brings a unique perspective to web development. His journey began with a career in civil engineering. Inspired by his travels and a fascination with digital innovation, he transitioned into web development. Today, he specializes in designing and developing intuitive, user-centric websites that not only meet but exceed client expectations.
    profile_image: /images/profile-1.jpg
  - name: Jenny
    bio: Webdesign & Webdevelopment
-   description: Hello! I'm [Your Name], a web developer with a background in healthcare as a speech therapist. I spent years working in hospitals, where I honed my communication skills and empathy. Inspired by a passion for technology and global exploration, I transitioned into web development. Today, I specialize in creating intuitive, user-centric websites that blend my healthcare expertise with technical proficiency. I'm dedicated to delivering impactful digital solutions that empower businesses and resonate with users worldwide.
+   description: Jenny's journey into web development was sparked by her love for problem-solving and her desire to blend creativity with technical skills. She brings a unique perspective to her work, combining an analytical mindset with a keen eye for design. Outside of coding, Jenny enjoys photography and leverages her expertise in social media to create engaging digital experiences. Drawing from her background in speech therapy, she brings a unique perspective to crafting intuitive user experiences.
    profile_image: /images/profile-2.jpg
 seo:
   title: About
-  description:
+  description: 'Find out more about the Webdevelopment Team.'
   social_image:
-  twitter_card:
   keywords:
   hide-from-google: false
 ---
 
 <!---------- header banner --------------------->
 <section class="grid vh60 bg-green">
-    <div class="col-5_md-12-middle editable padded light-text">
+    <div class="col-5_md-12-middle padded">
         <h2>Meet Us</h2>
-        <p class="editable">We are passionate about creating intuitive and impactful websites. They bring expertise in design, development, and user-centric solutions to every project, ensuring exceptional digital experiences that exceed client expectations.</p>
+        <p>Get to know the passionate minds behind our cutting-edge solutions and discover how we can bring your vision to life.</p>
     </div>
     <div class="col-7 bg-image md-hide" style="background-image: url('{{page.banner_image}}')"></div>
-    <!-- <div class="col-7_md-10-middle sm-hide bg-image" style="background-image: url('{{page.banner_image}}')"></div> -->
 </section>
 
 <!-- team members in jekyll loop -->
 <section class="padded">
-    <!-- best practice to put capped width inside a section to not mess with any background images or colors applied to the overall section later -->
-    <div class="capped-width"> 
+    <div class="capped-width-wide"> 
 
         {% for person in page.team %}
 

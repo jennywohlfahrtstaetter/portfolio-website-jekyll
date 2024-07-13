@@ -1,18 +1,10 @@
 ---
 layout: default
 title: Services
-features:
-- title: Beautiful Designs
-  description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, laboriosam! Quasi architecto est doloremque deserunt velit eos.
-  featured_image: /images/placeholder-project.png
-- title: Optimized Builds
-  description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, laboriosam! Quasi architecto est doloremque deserunt velit eos.
-  featured_image: /images/placeholder-project.png
 seo:
   title: Services
   description:
   social_image:
-  twitter_card:
   keywords:
   hide-from-google: false
 ---
@@ -21,28 +13,28 @@ seo:
 <section class="grid-middle-right padded bg-image bg-plant-2 vh70">
     <div class="col-7_sm-10 right editable">
         <h2>Our Services.</h2>
-        <p>Explore our diverse range of solutions tailored to meet your digital needs. From initial concept to polished execution, we're dedicated to delivering excellence at every stage.</p>
+        <p>Explore our diverse range of solutions tailored to meet your digital needs.</p>
     </div>
 </section>
 
 <!-- design build design&build grid -->
 <section class="padded bg-green">
     <!-- grid muss in capped width div übertragen werden -->
-    <div class="grid">
-        <div class="col-4_sm-12 padded">
+    <div class="capped-width">
+        <div class="padded">
             <h3>Design.</h3>
-            <p class="light-text editable">Our design services go beyond aesthetics; they're about creating meaningful visual experiences that resonate with your audience. We specialize in translating your brand's essence into compelling designs that captivate and engage. Whether it's crafting a striking logo, designing intuitive user interfaces, or developing cohesive brand identities, we ensure every visual element reflects your unique story and values. Our approach combines creativity with strategic thinking to deliver designs that not only look stunning but also enhance user experience and drive business growth.</p>
+            <p>Our design services go beyond aesthetics. They're about creating meaningful visual experiences that resonate with your audience. We specialize in translating your brand's essence into compelling designs that captivate and engage. Our approach combines creativity with strategic thinking to deliver designs that not only look stunning but also enhance user experience and drive business growth.</p>
         </div>
-        <div class="col-4_sm-12 padded">
+        <div class="padded">
             <h3>Build.</h3>
-            <p class="light-text editable">We engineer digital solutions that perform flawlessly. Leveraging the advantages of static site generators like Jekyll, we ensure your website is not only robust and scalable but also secure and lightning-fast. By pre-rendering pages and serving them as static HTML files, we enhance performance, reduce server load, and improve SEO. Whether you're launching a new site or migrating an existing one, our development team ensures your digital presence is reliable, efficient, and optimized for success.</p>
+            <p>We engineer digital solutions that perform flawlessly. Leveraging the advantages of static site generators like Jekyll, we ensure your website is not only robust and scalable but also secure and lightning-fast. By pre-rendering pages and serving them as static HTML files, we enhance performance, reduce server load, and improve SEO. Whether you're launching a new site or migrating an existing one, our development team ensures your digital presence is reliable, efficient, and optimized for success.</p>
         </div>
-        <div class="col-4_sm-12 padded editable">
+        <div class="padded">
             <h3>Design & Build. </h3>
-            <p class="light-text">Our integrated approach to design and development ensures cohesive digital solutions that align perfectly with your business goals. By combining innovative design with advanced technical expertise, we create seamless user experiences that drive engagement and conversions. From concept ideation to deployment and beyond, we collaborate closely with you to ensure every aspect of your digital strategy is meticulously executed. Whether it's enhancing existing platforms or launching new initiatives, our goal is to empower your business with robust, visually compelling solutions that leave a lasting impression on your audience.</p>
+            <p>Our integrated approach to design and development ensures cohesive digital solutions that align perfectly with your business goals. From concept ideation to deployment and beyond, we collaborate closely with you to ensure every aspect of your digital strategy is carefully executed. Whether it's enhancing existing platforms or launching new initiatives, our goal is to empower your business with robust, visually compelling solutions that leave a lasting impression on your audience.</p>
         </div>
-        <div class="col-12 center">
-            <a href="/contact.html" class="button">Get in touch!</a>
+        <div class="center margin-t">
+            <a href="/contact.html" class="button3">Get in touch!</a>
         </div>
     </div>
 </section>
@@ -50,23 +42,7 @@ seo:
 <!--  consultation CTA  ----------------------->
 {% include consultation-CTA.html %}
 
-<!----------- Recent Projects Grid ------------->
-<section class="padded">
-    <h2 class="center"> Optimized Builds.</h2>
-
-    {% for item in page.features %}
-
-    <div class="grid flex-flip-alternate">
-        <div class="col-6_sm-12-middle padded sm-center">
-            <h3>{{item.title}}</h3>
-            <p>{{item.description}}</p>
-        </div>
-        
-        <div class="col-6_sm-12-middle padded">
-            <img src="{{item.featured_image}}" alt="{{item.title}}">
-        </div>
-    </div>
-
-    {% endfor %}
-    
-</section>
+<!-- recent projects grid -->
+<section class="padded" id="projects">
+    {% include recent-projects.html %}
+ </section>
