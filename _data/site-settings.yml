@@ -1,11 +1,11 @@
 seo: 
-  site_name: OnememoryDesign
-  title: OnememoryDesign
-  description: 
-  keywords: Web-Development, WebDev, Web-Design
-  social_image: 
-  author: 
-  favicon_image: /images/icons/favicon/favicon.svg
+  site_name: OnememoryDesign.
+  title: OnememoryDesign.
+  description: Find your Agency for Web-Development and Web-Design here. Get a new website that is fast, reliable and secure.
+  keywords: Web-Development, WebDev, Web-Design, New Website
+  social_image: /images/favicon.png
+  author: Jenny and Patrick 
+  favicon_image: /images/favicon.png
 social:
   instagram_username:
   facebook_url:
