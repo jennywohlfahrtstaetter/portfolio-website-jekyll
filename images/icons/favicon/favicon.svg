@@ -7,7 +7,6 @@
 <line x1="281.509" y1="35.0163" x2="280.5" y2="375.015" stroke="#3C3C3C" stroke-width="11"></line>
 <circle cx="205" cy="205" r="149.5" fill="white" stroke="#3C3C3C" stroke-width="11"></circle>
 <path d="M263.878 323.706C263.878 330.609 263.878 337.512 263.878 344.415C263.878 345.828 264.304 347.154 263.048 347.782" stroke="white" stroke-width="24" stroke-linecap="round"></path>
-<path d="M263.878 63.8522C263.878 69.3574 266.221 76.5274 263.048 81.2864" stroke="white" stroke-width="24" stroke-linecap="round"></path>
 <path d="M300.23 55.4163V55.4942" stroke="white" stroke-width="3" stroke-linecap="round"></path>
 <path d="M287.214 45.5957V46.531" stroke="white" stroke-width="3" stroke-linecap="round"></path>
 <path d="M300.23 56.3516C299.924 55.4934 299.431 54.764 299.052 53.944C298.87 53.5487 299.317 53.9875 299.338 54.0047C299.834 54.4123 300.316 54.8442 300.801 55.2647C301.089 55.5138 301.41 55.5392 301.555 55.1045" stroke="#3C3C3C" stroke-width="3" stroke-linecap="round"></path>
@@ -31,10 +30,10 @@
 <path d="M133.043 74.3899C138.468 72.0135 144.789 70.5599 149.773 67.237C151.313 66.2107 152.677 65.2864 154.303 64.3758C157.14 62.7874 159.729 61.2923 162.827 60.2431C165.827 59.2272 168.91 59.1347 171.947 58.3754C173.369 58.0198 174.844 57.5806 176.318 57.5806" stroke="white" stroke-width="15"></path>
 <path d="M202.784 48.2819V54.3618" stroke="white" stroke-width="15"></path>
 <path d="M246.059 61.157C241.966 61.157 237.819 61.3707 233.76 60.7597C230.339 60.2447 226.888 59.315 223.527 58.4747C220.629 57.7502 217.912 57.5806 214.944 57.5806" stroke="white" stroke-width="15"></path>
-<path d="M238.191 55.7924C234.446 55.7924 230.775 55.0771 227.104 55.0771C225.666 55.0771 223.311 55.5291 222.097 54.7195" stroke="white" stroke-width="15"></path>
 <path d="M232.826 59.7265H246.416" stroke="white" stroke-width="15"></path>
+<path d="M226.082 51.443C228.723 51.4567 231.594 51.1452 233.865 52.6591" stroke="white" stroke-width="3" stroke-linecap="round"></path>
 <path d="M247.132 60.4418C241.689 60.4418 236.054 59.9726 230.68 60.7994" stroke="white" stroke-width="15"></path>
-<line x1="262" y1="29" x2="262" y2="381" stroke="#3C3C3C" stroke-width="30"></line>
+<line x1="256" y1="29" x2="256" y2="381" stroke="#3C3C3C" stroke-width="40"></line>
 </svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
 @media (prefers-color-scheme: dark) { :root { filter: none; } }
 </style></svg>
