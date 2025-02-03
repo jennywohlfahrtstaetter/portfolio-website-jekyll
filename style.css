@@ -74,6 +74,7 @@ html {
 .copyright { 
     opacity: 0.8;
     font-size: 0.9rem;
+    text-decoration: none;
 }
 
 /* ----------- Typography -------------*/
@@ -107,6 +108,8 @@ a {
     color: inherit;
     font-size: 1.1rem;
 }
+
+.no-deco { text-decoration: none;}
 
 header a { text-decoration: none;}
 
