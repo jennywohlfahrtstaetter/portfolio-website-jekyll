@@ -164,7 +164,7 @@ You can also prevent the storage of cookies by adjusting your browser software s
 a. Not giving consent to the setting of the cookie, or
 b. Downloading and installing the browser add-on to deactivate Google Analytics [HERE](https://tools.google.com/dlpage/gaoptout?hl=en){:target="_blank"}.
 
-For further information from Google, please visit the [terms of use] (https://marketingplatform.google.com/about/analytics/terms/en/){:target="_blank"} of Google Analytics and [privacy](https://policies.google.com/?hl=en){:target="_blank"}.
+For further information from Google, please visit their [Privacy & Terms](https://policies.google.com/?hl=en){:target="_blank"}.
 
 #### Data Processing Agreement
 We have concluded a data processing agreement with Google and fully comply with the guidelines of the Austrian Data Protection Authority when using Google Analytics.
@@ -350,7 +350,7 @@ Sie können die Speicherung von Cookies auch von vornherein durch eine entsprech
 a. Ihre Einwilligung in das Setzen des Cookies nicht erteilen oder 
 b. das Browser-Add-on zur Deaktivierung von Google Analytics [HIER](https://tools.google.com/dlpage/gaoptout?hl=de){:target="_blank"} herunterladen und installieren. 
 
-Nähere Informationen zu Nutzungsbedingungen von Google Analytics und zum Datenschutz bei Google finden Sie unter [terms of use](https://marketingplatform.google.com/about/analytics/terms/en/){:target="_blank"} und unter [privacy](https://policies.google.com/?hl=en){:target="_blank"}. 
+Nähere Informationen zu Nutzungsbedingungen von Google Analytics und zum Datenschutz bei Google finden Sie unter [Privacy & Terms](https://policies.google.com/?hl=en){:target="_blank"}.. 
 
 #### Auftragsdatenverarbeitung 
 Wir haben mit Google einen Vertrag zur Auftragsdatenverarbeitung abgeschlossen und setzen die Vorgaben der österreichischen Datenschutzbehörde bei der Nutzung von Google Analytics vollständig um. 
