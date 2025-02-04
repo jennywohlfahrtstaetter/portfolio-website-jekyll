@@ -13,7 +13,7 @@ seo:
 This Cookie Policy was last updated on 04/02/2025 and applies to citizens and residents with permanent residence in the European Economic Area (EEA) and Switzerland.
 
 ## 1. Introduction
-Our website, https://onememorypermile.com (hereinafter: "The Website"), uses cookies and similar technologies (for simplicity, all of these are referred to as "Cookies"). Cookies are also placed by third parties that we have authorized. In the document below, we inform you about the use of cookies on our website.
+Our website, https://onememorydesign.com (hereinafter: "The Website"), uses cookies and similar technologies (for simplicity, all of these are referred to as "Cookies"). Cookies are also placed by third parties that we have authorized. In the document below, we inform you about the use of cookies on our website.
 
 ## 2. What are Cookies?
 A cookie is a simple small file that is sent along with the pages of an internet address and may be stored by your web browser on your PC or another device. The information stored in these cookies can be sent back to our servers or to the servers of relevant third parties during subsequent visits.
@@ -71,7 +71,7 @@ For questions and/or comments about our Cookie Policy and this statement, please
 Diese Cookie-Richtlinie wurde zuletzt am 04/02/2025 aktualisiert und gilt für Bürger und Einwohner mit ständigem Wohnsitz im Europäischen Wirtschaftsraum und der Schweiz.
 
 ## 1. Einführung
-Unsere Website, https://onememorypermile.com (im folgenden: “Die Website”) verwendet Cookies und ähnliche Technologien (der Einfachheit halber werden all diese unter “Cookies” zusammengefasst). Cookies werden außerdem von uns beauftragten Drittparteien platziert. In dem unten stehendem Dokument informieren wir dich über die Verwendung von Cookies auf unserer Website.
+Unsere Website, https://onememorydesign.com (im folgenden: “Die Website”) verwendet Cookies und ähnliche Technologien (der Einfachheit halber werden all diese unter “Cookies” zusammengefasst). Cookies werden außerdem von uns beauftragten Drittparteien platziert. In dem unten stehendem Dokument informieren wir dich über die Verwendung von Cookies auf unserer Website.
 
 ## 2. Was sind Cookies?
 Ein Cookie ist eine einfache kleine Datei, die gemeinsam mit den Seiten einer Internetadresse versendet und vom Webbrowser auf dem PC oder einem anderen Gerät gespeichert werden kann. Die darin gespeicherten Informationen können während folgender Besuche zu unseren oder den Servern relevanter Drittanbieter gesendet werden.
