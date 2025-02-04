@@ -336,6 +336,63 @@ form .button2 {
     font-weight: normal;
   }
 
+
+/* ------------ Cookie banner Styles  ----------------------- */
+
+#cookie-notice {
+    display: none;
+    padding: 1rem;
+    text-align: center;
+    position: fixed;
+    left: 1rem;
+    right: 1rem;
+    bottom: 0;
+    width: calc(100% - 2rem);
+    background: var(--featured);
+    color: rgba(255, 255, 255, 0.8);
+    min-height: 30%;
+  }
+  
+  #cookie-notice p {
+    font-size: 0.8rem;
+    line-height: 1.1;
+    padding: 0 5%;
+  }
+  
+  #cookie-notice a {
+    display: inline-block;
+    cursor: pointer;
+    margin-left: 0.5rem;
+  }
+  #cookie-notice .button-subtle {
+    opacity: 0.8;
+  }
+  
+  #cookie-banner-datenschutz{
+    display: inline-block;
+    font-size: 0.8rem;
+    margin: 0 1rem;
+    text-decoration: none;
+    border-bottom: 1px solid;
+  }
+  
+  .reshow-button {
+    background-color: var(--v-light);
+    position: fixed;
+    bottom: -0.3rem;
+    right: 0.1rem;
+    padding: 0.2rem 0.5rem;
+    border-radius: 0.8rem 0.8rem 0 0;
+    cursor: pointer;
+  }
+  
+  .hide-button.reshow-button {
+    display:block;
+    position: fixed;
+    right: 0.1rem;
+  }
+  
+
 /* ------------------------ Responsive Styles -------------------------- */
 /* General CSS Responsive Styles (Apply everywhere unless overriden) */ 
 .xs-show, 
