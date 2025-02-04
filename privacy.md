@@ -42,7 +42,7 @@ We would like to point out that data transmission over the internet (e.g., commu
 #### Responsible Authority
 The responsible authority for data processing on this website is:
 Jennifer Wohlfahrtstätter & Patrick Fuchs  
-Email: hello@onememorypermile.com
+Email: hello@onememorydesign.com
 
 A responsible authority is the person who alone or together with others decides on the purposes and means of processing personal data (e.g., names, email addresses, etc.).
 
@@ -106,7 +106,7 @@ Our website integrates a plugin showing our photos posted on the social media pl
 
 The plugin does not store personal data. However, your IP address may be stored on Instagram's server. We integrate our Instagram images on our website to keep our readers informed about our current travel destinations. Furthermore, displaying our Instagram images serves to provide the best and most complete representation of our travel content. This constitutes a legitimate interest under Article 6(1)(f) of the GDPR.
 
-Further information on handling user data can be found in Instagram's privacy policy at: [Instagram Privacy Policy](https://help.instagram.com/155833707900388).
+Further information on handling user data can be found in Instagram's privacy policy at: [Instagram Privacy Policy](https://help.instagram.com/155833707900388){:target="_blank"}.
 
 ## 5. Analysis Tools and Advertising
 
@@ -164,7 +164,7 @@ You can also prevent the storage of cookies by adjusting your browser software s
 a. Not giving consent to the setting of the cookie, or
 b. Downloading and installing the browser add-on to deactivate Google Analytics [HERE](https://tools.google.com/dlpage/gaoptout?hl=en){:target="_blank"}.
 
-For further information on the terms of use of Google Analytics and privacy at Google, please visit https://marketingplatform.google.com/about/analytics/terms/en/ and https://policies.google.com/?hl=en.
+For further information from Google, please visit the [terms of use] (https://marketingplatform.google.com/about/analytics/terms/en/){:target="_blank"} of Google Analytics and [privacy](https://policies.google.com/?hl=en){:target="_blank"}.
 
 #### Data Processing Agreement
 We have concluded a data processing agreement with Google and fully comply with the guidelines of the Austrian Data Protection Authority when using Google Analytics.
@@ -191,7 +191,7 @@ We use Calendly, a scheduling tool, to facilitate the booking of appointments th
 
 This data is necessary for coordinating and managing your appointment. 
 
-Calendly's privacy policy applies to the data collected through their platform, and you can review it on their website for more details on how your information is handled. By using Calendly, you consent to the processing of your data in accordance with their terms and privacy policy on: https://calendly.com/legal/privacy-notice and on https://calendly.com/legal.
+Calendly's privacy policy applies to the data collected through their platform, and you can review it on their website for more details on how your information is handled. By using Calendly, you consent to the processing of your data in accordance with their terms and privacy policy on: [Privacy Policy](https://calendly.com/legal/privacy-notice){:target="_blank"} and on [Terms and Conditions](https://calendly.com/legal){:target="_blank"}.
 
 <hr>
 
@@ -231,7 +231,7 @@ Wir möchten dich darauf hinweisen, dass die Datenübertragung im Internet (z.B.
 #### Verantwortliche Stelle
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:  
 Jennifer Wohlfahrtstätter & Patrick Fuchs 
-E-Mail: hello@onememorypermile.com  
+E-Mail: hello@onememorydesign.com  
 
 Eine verantwortliche Stelle ist jene Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. Ä.) entscheidet. 
 
@@ -296,7 +296,7 @@ Auf unserer Website wird ein Plugin eingebunden, welches unsere Fotos zeigt, die
 
 Das Plugin speichert keine personenbezogenen Daten. Es kann allerdings sein, dass deine IP-Adresse auf dem Server von Instagram gespeichert wird. Wir binden unsere Instagram-Bilder auf unserer Website ein, um unsere Leser über unsere aktuellen Reiseziele auf dem Laufenden zu halten. Außerdem dient die Darstellung unserer Instagram-Bilder einer bestmöglichen und vollständigen Darstellung unserer Reiseinhalte. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar. 
 
-Weitere Informationen zum Umgang mit Nutzerdaten findest du in der Datenschutzerklärung von Instagram unter: https://help.instagram.com/155833707900388. 
+Weitere Informationen zum Umgang mit Nutzerdaten findest du in der [Datenschutzerklärung](https://help.instagram.com/155833707900388){:target="_blank"} von Instagram. 
 
 ## 5. Analysetools und Werbung 
 
@@ -350,7 +350,7 @@ Sie können die Speicherung von Cookies auch von vornherein durch eine entsprech
 a. Ihre Einwilligung in das Setzen des Cookies nicht erteilen oder 
 b. das Browser-Add-on zur Deaktivierung von Google Analytics [HIER](https://tools.google.com/dlpage/gaoptout?hl=de){:target="_blank"} herunterladen und installieren. 
 
-Nähere Informationen zu Nutzungsbedingungen von Google Analytics und zum Datenschutz bei Google finden Sie unter https://marketingplatform.google.com/about/analytics/terms/de/ und unter https://policies.google.com/?hl=de. 
+Nähere Informationen zu Nutzungsbedingungen von Google Analytics und zum Datenschutz bei Google finden Sie unter [terms of use](https://marketingplatform.google.com/about/analytics/terms/en/){:target="_blank"} und unter [privacy](https://policies.google.com/?hl=en){:target="_blank"}. 
 
 #### Auftragsdatenverarbeitung 
 Wir haben mit Google einen Vertrag zur Auftragsdatenverarbeitung abgeschlossen und setzen die Vorgaben der österreichischen Datenschutzbehörde bei der Nutzung von Google Analytics vollständig um. 
@@ -377,4 +377,4 @@ Wir verwenden Calendly, ein Planungstool, um die Buchung von Terminen über unse
 
 Diese Daten sind notwendig, um Ihren Termin zu koordinieren und zu verwalten.
 
-Die Datenschutzerklärung von Calendly gilt für die über ihre Plattform gesammelten Daten, und Sie können diese auf ihrer Website einsehen, um weitere Details darüber zu erfahren, wie Ihre Informationen verarbeitet werden. Durch die Nutzung von Calendly stimmen Sie der Verarbeitung Ihrer Daten gemäß ihren Bedingungen und ihrer Datenschutzerklärung zu, die unter https://calendly.com/legal/privacy-notice und unter https://calendly.com/legal verfügbar sind.
+Die Datenschutzerklärung von Calendly gilt für die über ihre Plattform gesammelten Daten, und Sie können diese auf ihrer Website einsehen, um weitere Details darüber zu erfahren, wie Ihre Informationen verarbeitet werden. Durch die Nutzung von Calendly stimmen Sie der Verarbeitung Ihrer Daten gemäß ihren Bedingungen und ihrer Datenschutzerklärung zu, die unter [Privacy Policy](https://calendly.com/legal/privacy-notice){:target="_blank"} und unter [Terms and Conditions](https://calendly.com/legal){:target="_blank"}. verfügbar sind.
