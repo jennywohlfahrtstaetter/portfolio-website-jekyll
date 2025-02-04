@@ -54,12 +54,17 @@ html {
 .center { text-align: center; }
 .right  { text-align: right; }
 
+
+/* ---------- Negative Space Utility Classes  ------------------ */ 
+
+
 .capped-width { 
     max-width: 700px;
     margin: auto;
 }
-
 .capped-width-wide {max-width: 1000px; margin:auto}
+
+
 
 /* flipped die reihenfolge im jekyll loop, nth child kann odd oder even sein, je nach dem bei welchem bild gestartet werden soll; row reverse dreht die reihe um; column reverse dreht die reihenfolge innerhalb einer reihe um -> oft gut für mobile responsive design */
 .flex-flip-alternate:nth-child(even) {
@@ -336,6 +341,57 @@ form .button2 {
     font-weight: normal;
   }
 
+
+/* ------------ Markdown Styles -------------  */
+
+.md-style h1 {
+    font-weight: 200;
+    font-size: 2.8rem;
+  }
+  
+  /* nicht verändern */
+  .md-style h2 {
+    font-size: 2rem;
+    margin-top: 1.8rem;
+  }
+  
+  /* nicht verändern */
+  .md-style h3 {
+    font-size: 1.6rem;
+  }
+  
+  /* nicht verändern */
+  .md-style h4 {
+    font-size: 1.4rem;
+    margin-left: 1rem;
+    margin-top: 1.8rem;
+  }
+  
+  /* für listen */
+  .md-style h5 {
+    font-size: 1.2rem;
+    margin-bottom: 0.4rem;
+  }
+  
+  .md-style h6 {
+    font-size: 1.1rem;
+  }
+  
+  .md-style p {
+    line-height: 1.6;
+  }
+  
+  .md-style hr {
+    border: none;
+    border: 1px solid var(--medium);
+  }
+  
+  .md-style li{
+      margin-left: 2rem;
+      margin-bottom: 0.5rem;
+      padding-left: 1rem;
+      margin-right: 5rem;
+  }
 
 /* ------------ Cookie banner Styles  ----------------------- */
 
