@@ -74,7 +74,7 @@ You can configure your browser to inform you about the setting of cookies and on
 
 Cookies that are necessary for the electronic communication process or for providing certain functions requested by you will be stored based on Article 6(1)(f) of the GDPR. Our legitimate interest in the storage of cookies lies in the technical error-free and optimized provision of our services. Further cookies (e.g., cookies for analyzing your browsing behavior) are dealt with separately in this privacy policy.
 
-Further information can be found in the [Cookie Policy](cookie-policy.html).
+Further information can be found in the [Cookie Policy](cookie-policy).
 
 #### Server Log Files
 The provider of our website collects and stores information automatically in so-called server log files, which your browser automatically transmits to us. These are:
@@ -263,7 +263,7 @@ Du kannst deinen Browser so einstellen, dass du über das Setzen von Cookies inf
 
 Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs oder zur Bereitstellung bestimmter, von dir erwünschter Funktionen erforderlich sind, werden auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO gespeichert. Unser berechtigtes Interesse an der Speicherung von Cookies dient der technisch fehlerfreien und optimierten Bereitstellung unserer Dienste. Weitere Cookies (z.B. Cookies zur Analyse deines Surfverhaltens) werden in dieser Datenschutzerklärung gesondert behandelt. 
 
-Weitere Informationen können in den [Cookie Richtlinien](cookie-richtlinie.html) eingesehen werden. 
+Weitere Informationen können in den [Cookie Richtlinien](cookie-policy) eingesehen werden. 
 
 #### Server-Log-Dateien 
 
