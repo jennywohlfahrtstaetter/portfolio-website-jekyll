@@ -111,58 +111,87 @@ Further information on handling user data can be found in Instagram's privacy po
 ## 5. Analysis Tools and Advertising
 
 #### Google Analytics 4
-If you have given your consent, Google Analytics 4, a web analysis service from Google LLC, is used on this website. The responsible party for users in the EU/EEA and Switzerland is Google Ireland Limited, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland ("Google").
+If you have given your consent, Google Analytics 4, a web analytics service of Google LLC, is used on this website. The responsible party for users in the EU/EEA and Switzerland is Google Ireland Limited, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland ("Google").
 
-##### Type and Purpose of Processing
-Google Analytics uses cookies that enable an analysis of the use of our websites. The information collected through the cookies about your use of this website is usually transferred to a Google server in the USA and stored there.
+#### Type and Purpose of Processing
+Google Analytics uses cookies that allow an analysis of how you use our websites. The information collected through cookies about your use of this website is usually transferred to and stored on a server of Google in the USA.
 
-In Google Analytics 4, IP address anonymization is enabled by default. As a result, your IP address is truncated by Google within the member states of the European Union or in other signatory states of the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be transferred to a Google server in the USA and truncated there. The IP address transmitted by your browser within the framework of Google Analytics is not merged with other Google data according to Google.
-
-While visiting our website, your user behavior is recorded in the form of “events.” 
-These events include:
+For Google Analytics 4, IP address anonymization is enabled by default. Due to IP anonymization, your IP address will be truncated by Google within member states of the European Union or in other contracting states of the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be transmitted to a server of Google in the USA and truncated there. According to Google, the IP address transmitted by your browser as part of Google Analytics will not be merged with other Google data. During your website visit, your user behavior is recorded in the form of "events."  
+Events may include:
 - Page views
 - First visit to the website
 - Start of the session
 - Visited pages
-- Click path, interaction with the website
+- Your "click path", interaction with the website
 - Scrolls (whenever a user scrolls to the bottom of the page (90%))
 - Clicks on external links
 - Internal search queries
 - Interaction with videos
 - File downloads
 - Viewed/clicked ads
-- Language settings
+- Language setting
 
-Furthermore, the following is recorded:
+Additionally, the following is recorded:
 - Your approximate location (region)
-- Date and time of your visit
+- Date and time of the visit
 - Your IP address (in truncated form)
-- Technical information about your browser and the devices you use (e.g., language setting, screen resolution)
-- Your internet service provider
-- The referrer URL (the website or advertisement that brought you to this website)
+- Technical information about your browser and devices used (e.g., language setting, screen resolution)
+- Your internet provider
+- Referrer URL (which website or ad medium led you to this website)
 
-##### Purpose of Processing
-Google will use this information on behalf of the website operator to evaluate your use of the website and compile reports on website activities. The reports provided by Google Analytics are used to analyze the performance of our website.
+#### Purpose of Processing
+On behalf of the operator of this website, Google will use this information to evaluate your use of the website and compile reports on website activity. The reports provided by Google Analytics are used to analyze the performance of our website.
 
-##### Recipients
-Recipients of the data are or may be:
-- Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland (as a processor under Article 28 of the GDPR)
-- Google LLC, 1600 Amphitheatre Parkway Mountain View, CA 94043, USA
-- Alphabet Inc., 1600 Amphitheatre Parkway Mountain View, CA 94043, USA
+#### Recipients
+Recipients of the data may include:
+- Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland (as a data processor according to Art. 28 GDPR)
+- Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+- Alphabet Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
 
-##### Third-Country Transfer
-For the USA, the European Commission adopted its adequacy decision on July 10, 2023. Google LLC is certified under the EU-US Privacy Framework. Since Google servers are distributed worldwide and data transfer to third countries (e.g., Singapore) cannot be completely ruled out, we have also concluded the [EU Standard Contractual Clauses](https://business.safety.google/adsprocessorterms/sccs/c2p/) with the provider.
+#### Transfer to Third Countries
+For the USA, the European Commission adopted an adequacy decision on July 10, 2023. Google LLC is certified under the EU-US Privacy Framework. As Google servers are distributed worldwide, and a transfer to third countries (for example, to Singapore) cannot be entirely ruled out, we have also concluded the [EU Standard Contractual Clauses](https://business.safety.google/adsprocessorterms/sccs/c2p/){:target="_blank"} with the provider.
 
-##### Storage Duration
-The data sent by us and linked with cookies is automatically deleted after 2 years. The maximum lifetime of the Google Analytics cookies is 2 years. The deletion of data, whose retention period has expired, is done automatically once a month.
+#### Storage Duration
+The data we send and link to cookies will be automatically deleted after 2 years. The maximum lifespan of Google Analytics cookies is 2 years. The deletion of data that has reached its retention period occurs automatically once a month.
 
-##### Legal Basis
-The legal basis for this data processing is your consent according to Article 6(1)(a) GDPR and Section 25(1)(1) TTDSG.
+#### Legal Basis
+The legal basis for this data processing is your consent according to Art. 6 (1) sentence 1 lit. a GDPR and § 25 (1) sentence 1 TTDSG.
 
-##### Withdrawal
-You can withdraw your consent at any time with effect for the future by accessing the cookie settings and changing your selection there. The legality of the processing carried out based on the consent until the withdrawal remains unaffected.
+#### Withdrawal
+You can withdraw your consent at any time with effect for the future by calling up the cookie settings and changing your selection there. The lawfulness of processing based on consent before its withdrawal remains unaffected.
 
-Further information on the terms of use and data protection can be found in Google's terms of service and privacy policy: [Google Terms of Service](https://policies.google.com/terms?hl=en) and [Google Privacy Policy](https://policies.google.com/privacy?hl=en).
+You can also prevent the storage of cookies by adjusting your browser software settings. However, if you configure your browser to reject all cookies, this may limit functionalities on this and other websites. Additionally, you can prevent the collection of data generated by the cookie and related to your use of the website (including your IP address) by Google, as well as the processing of these data by Google, by:
+a. Not giving consent to the setting of the cookie, or
+b. Downloading and installing the browser add-on to deactivate Google Analytics [HERE](https://tools.google.com/dlpage/gaoptout?hl=en){:target="_blank"}.
+
+For further information on the terms of use of Google Analytics and privacy at Google, please visit https://marketingplatform.google.com/about/analytics/terms/en/ and https://policies.google.com/?hl=en.
+
+#### Data Processing Agreement
+We have concluded a data processing agreement with Google and fully comply with the guidelines of the Austrian Data Protection Authority when using Google Analytics.
+
+## 6. Links
+
+#### Liability for Content
+As service providers, we are responsible for our own content on these pages according to § 7 (1) TMG under general law. According to §§ 8 to 10 TMG, we are not, however, obligated to monitor transmitted or stored external information or to investigate circumstances indicating illegal activity. Obligations to remove or block the use of information according to general laws remain unaffected. However, liability in this regard is only possible from the moment we become aware of a specific legal violation. If we become aware of such violations, we will remove the content immediately.
+
+#### Liability for Links
+Our offer contains links to external third-party websites, on whose content we have no influence. Therefore, we cannot assume any responsibility for these external contents. The respective provider or operator of the pages is always responsible for the content of the linked pages. The linked pages were checked for possible legal violations at the time of linking. No illegal content was detectable at the time of linking. A permanent content control of the linked pages is, however, not reasonable without concrete evidence of a violation of the law. If we become aware of legal violations, we will remove such links immediately. Copyright The content and works created by the site operators on these pages are subject to German copyright law.
+
+#### Copyright
+The reproduction, editing, distribution, and any type of utilization outside the limits of copyright law require the written consent of the respective author or creator. Downloads and copies of this site are only permitted for private, non-commercial use. As far as the content on this site was not created by the operator, the copyrights of third parties are observed. In particular, third-party content is marked accordingly. If you become aware of a copyright violation, we ask for an appropriate notice. Upon notification of legal violations, we will immediately remove such content.
+
+## 7. Plugins and Tools
+
+#### Formspree
+We use Formspree, a service that allows us to create and manage forms on our website. When using Formspree, the data you enter into our forms is transmitted to and processed by Formspree. Formspree securely stores this data and makes it available to us so that we can respond to your requests or messages. Your data is stored only as long as necessary for the purpose for which it was collected and is not shared with third parties unless required by law. For more information on how Formspree processes data and protects your data, please refer to their [Privacy Policy](https://formspree.io/legal/privacy-policy/){:target="_blank"} and [Terms of Service](https://formspree.io/legal/terms-of-service/){:target="_blank"}.
+
+#### Calendly
+
+We use Calendly, a scheduling tool, to facilitate the booking of appointments through our website. When you use Calendly to schedule an appointment, the data you provide, such as your name, email address, and the chosen time slot, is processed by Calendly. 
+
+This data is necessary for coordinating and managing your appointment. 
+
+Calendly's privacy policy applies to the data collected through their platform, and you can review it on their website for more details on how your information is handled. By using Calendly, you consent to the processing of your data in accordance with their terms and privacy policy on: https://calendly.com/legal/privacy-notice and on https://calendly.com/legal.
 
 <hr>
 
@@ -340,13 +369,12 @@ Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung auß
 ## 7. Plugins und Tools
 
 #### Formspree
-Wir verwenden Formspree, einen Dienst, der es uns ermöglicht, Formulare auf unserer Website zu erstellen und zu verwalten. Bei der Nutzung von Formspree werden die von Ihnen in unsere Formulare eingegebenen Daten an Formspree übermittelt und dort verarbeitet. Formspree speichert diese Daten sicher und stellt sie uns zur Verfügung, damit wir auf Ihre Anfragen oder Nachrichten reagieren können. Ihre Daten werden nur so lange gespeichert, wie es für den Zweck erforderlich ist, für den sie erhoben wurden, und werden nicht an Dritte weitergegeben, es sei denn, dies ist gesetzlich erforderlich. Weitere Informationen zur Datenverarbeitung durch Formspree und den Schutz Ihrer Daten finden Sie in deren [Datenschutzerklärung](https://formspree.io/legal/privacy-policy/){:target="_blank"} und den [Terms of Service](https://formspree.io/legal/terms-of-service/){:target="_blank"}.
+Wir verwenden Formspree, einen Dienst, der es uns ermöglicht, Formulare auf unserer Website zu erstellen und zu verwalten. Bei der Nutzung von Formspree werden die von Ihnen in unsere Formulare eingegebenen Daten an Formspree übermittelt und dort verarbeitet. Formspree speichert diese Daten sicher und stellt sie uns zur Verfügung, damit wir auf Ihre Anfragen oder Nachrichten reagieren können. Ihre Daten werden nur so lange gespeichert, wie es für den Zweck erforderlich ist, für den sie erhoben wurden, und werden nicht an Dritte weitergegeben, es sei denn, dies ist gesetzlich erforderlich. Weitere Informationen zur Datenverarbeitung durch Formspree und den Schutz Ihrer Daten finden Sie in deren [Datenschutzerklärung](https://formspree.io/legal/privacy-policy/){:target="_blank"} und den [Terms of Service](https://formspree.io/legal/terms-of-service/){:target="_blank"}.     
 
-#### Google Maps  
-Unsere Website nutzt das Karten-Plugin Google Maps. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. 
+#### Calendly
 
-Wenn du eine unserer mit einer Google Map ausgestatteten Seiten besuchst, wird deine IP-Adresse auf den Google Servern in den USA gespeichert. Auf diese Speicherung haben wir als Seitenbetreiber keinen Einfluss. 
+Wir verwenden Calendly, ein Planungstool, um die Buchung von Terminen über unsere Website zu erleichtern. Wenn Sie Calendly verwenden, um einen Termin zu vereinbaren, werden die von Ihnen angegebenen Daten, wie Ihr Name, Ihre E-Mail-Adresse und der gewählte Zeitraum, von Calendly verarbeitet.
 
-Wir binden Google Maps ein, um unsere Reisetipps zu visualisieren und unseren Lesern die Reiseplanung mithilfe interaktiver Karten bestmöglich zu erleichtern. Die Einbindung von Google Maps auf unserer Website stellt somit ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar. 
+Diese Daten sind notwendig, um Ihren Termin zu koordinieren und zu verwalten.
 
-Weitere Informationen zum Umgang mit Nutzerdaten findest du in der Datenschutzerklärung von Google unter: https://www.google.de/intl/de/policies/privacy.      
+Die Datenschutzerklärung von Calendly gilt für die über ihre Plattform gesammelten Daten, und Sie können diese auf ihrer Website einsehen, um weitere Details darüber zu erfahren, wie Ihre Informationen verarbeitet werden. Durch die Nutzung von Calendly stimmen Sie der Verarbeitung Ihrer Daten gemäß ihren Bedingungen und ihrer Datenschutzerklärung zu, die unter https://calendly.com/legal/privacy-notice und unter https://calendly.com/legal verfügbar sind.
