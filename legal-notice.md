@@ -12,13 +12,13 @@ seo:
 ### OnememoryDesign.
 
 ##### Jennifer Wohlfahrtstätter
-Vorstadtweg 14a
+Vorstadtweg 14a <br>
 6314 Hopfgarten, Austria
 
 #### &
 
 ##### Patrick Fuchs
-Lofererstraße 99
+Lofererstraße 99 <br>
 6322 Kirchbichl, Austria
 
 ##### Kontakt:
@@ -30,10 +30,10 @@ Email: <a href="mailto:onememorydesign@gmail.com">onememorydesign@gmail.com</a>
 
 ##### Unternehmensinformationen:
 
-Rechtsform: Einzelunternehmen
-Aufsichtsbehörde für Jennifer Wohlfahrtstätter: Bezirkshauptmannschaft Kitzbühel
-Aufsichtsbehörde für Patrick Fuchs: Bezirkshauptmannschaft Kufstein
-Anwendbare Rechtsvorschriften: ECG, GewO, MedienG
+Rechtsform: Einzelunternehmen <br>
+Aufsichtsbehörde für Jennifer Wohlfahrtstätter: Bezirkshauptmannschaft Kitzbühel <br>
+Aufsichtsbehörde für Patrick Fuchs: Bezirkshauptmannschaft Kufstein <br>
+Anwendbare Rechtsvorschriften: ECG, GewO, MedienG <br>
 UID-Nummer: Nicht umsatzsteuerpflichtig gemäß Kleinunternehmerregelung
 
 ### Haftungsausschluss
@@ -49,28 +49,27 @@ Alle Inhalte dieser Website, einschließlich Bilder, Grafiken und Texte, sind ur
 ## Legal Notice
 
 ##### Jennifer Wohlfahrtstätter
-Vorstadtweg 14a
+Vorstadtweg 14a <br>
 6314 Hopfgarten, Austria
 
 #### &
 
 ##### Patrick Fuchs
-Lofererstraße 99
+Lofererstraße 99 <br>
 6322 Kirchbichl, Austria
 
 ##### Contact:
-📧 Email: <a href="mailto:onememorydesign@gmail.com">onememorydesign@gmail.com</a>
-📞 Phone: 
+Email: <a href="mailto:onememorydesign@gmail.com">onememorydesign@gmail.com</a>
 
 ##### Website:
-🌐 [www.onememorydesign.com](www.onememorydesign.com){:target="_blank"}
+[www.onememorydesign.com](www.onememorydesign.com){:target="_blank"}
 
 ##### Company Information:
 
-Legal Form: Sole Proprietorship
-Regulatory Authority for Jennifer Wohlfahrtstätter: Bezirkshauptmannschaft Kitzbühel
-Regulatory Authority for Patrick Fuchs: Bezirkshauptmannschaft Kufstein
-Applicable Laws: ECG, GewO, MedienG
+Legal Form: Sole Proprietorship <br>
+Regulatory Authority for Jennifer Wohlfahrtstätter: Bezirkshauptmannschaft Kitzbühel <br>
+Regulatory Authority for Patrick Fuchs: Bezirkshauptmannschaft Kufstein <br>
+Applicable Laws: ECG, GewO, MedienG <br>
 VAT ID (UID Number): Not subject to VAT under the Small Business Regulation (Kleinunternehmerregelung)
 
 ### Disclaimer
