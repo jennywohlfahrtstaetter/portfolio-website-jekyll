@@ -213,17 +213,17 @@ footer a:hover {
 }
 
 .bg-plant {
-    background-image: url('/images/plant.jpg');
+    background-image: url('/images/plant.webp');
     background-position: 50% 43%;
 }
 
 .bg-plant-2 {
-    background-image: url('/images/plant-2.jpg');
+    background-image: url('/images/plant-2.webp');
     background-position: 75% 50%;
 }
 
 .bg-meeting {
-    background-image: url('/images/meeting.jpg');
+    background-image: url('/images/meeting.webp');
 }
 
 .right-arrow {
@@ -484,11 +484,11 @@ form .button2 {
     .sm-padded-t {padding-top: 5%;}
 
     .bg-plant {
-        background-image: url('/images/plant-light.png');
+        background-image: url('/images/plant-light.webp');
     }
     
     .bg-plant-2 {
-        background-image: url('/images/plant-2-light.png');
+        background-image: url('/images/plant-2-light.webp');
         background-position: 45% 50%;
     }
 
