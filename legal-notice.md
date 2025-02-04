@@ -8,6 +8,7 @@ seo:
 ---
 
 ## Impressum
+<br>
 
 ### OnememoryDesign.
 
@@ -47,7 +48,9 @@ Alle Inhalte dieser Website, einschließlich Bilder, Grafiken und Texte, sind ur
 <hr>
 
 ## Legal Notice
+<br>
 
+### OnememoryDesign.
 ##### Jennifer Wohlfahrtstätter
 Vorstadtweg 14a <br>
 6314 Hopfgarten, Austria
