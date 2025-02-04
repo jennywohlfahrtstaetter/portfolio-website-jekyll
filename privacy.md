@@ -1,12 +1,172 @@
 ---
 layout: datenschutz-layout
-title: Datenschutz
+title: Privacy Policy
 seo:
-  title: Datenschutz
-  description: 'Erfahre mehr darüber, wie wir deine personenbezogenen Daten schützen und verarbeiten.'
-  keywords: 'Datenschutz, personenbezogene Daten, Privatsphäre, DSGVO'
+  title: Privacy-Policy
+  description: 'Learn more about how we protect and process your personal data.'
+  keywords: 'Privacy-Policy, Datenschutz, personenbezogene Daten, Privatsphäre, DSGVO'
   hide-from-google: false
 ---
+
+# Privacy Policy
+
+Thank you for your interest in the topic of data protection. Below, we would like to inform you about what happens to your personal data when you visit our website. Personal data is any information that can identify you personally. In our privacy policy, you will find detailed information on data protection.
+
+## 1. Data Protection at a Glance
+
+### Data Collection on Our Website
+
+#### Who is responsible for the data collection on this website?
+The data processing on this website is carried out by the website operators. You can find our contact details in the imprint of this website.
+
+#### How do we collect your data?
+Certain data is collected automatically by IT systems when you visit the website. These are mainly technical data (e.g., internet browser, operating system, or time of page access). The collection of this data happens automatically as soon as you visit our website.
+
+#### What do we use your data for?
+Some of the data is collected to ensure the error-free provision and display of our website. Other data is used to analyze user behavior to continually improve our website.
+
+#### What rights do you have regarding your data?
+You have the right to obtain information about the origin, recipient, and purpose of your stored personal data at any time free of charge. You also have the right to request the correction, blocking, or deletion of this data. For this and other privacy-related questions, you can always contact us. Our contact details can be found in the imprint of this website. Additionally, you have the right to file a complaint with the relevant supervisory authority.
+
+#### Analysis Tools and Third-Party Tools
+When visiting our website, your surfing behavior may be statistically evaluated. This is done primarily through cookies and analysis programs (e.g., Google Analytics). The analysis of your user behavior is usually done anonymously. Your surfing behavior cannot be traced back to you. Further details can be found in our privacy policy under the heading "Analysis Tools and Advertising."
+
+## 2. General Information and Mandatory Information
+
+#### Data Protection
+We take the protection of your personal data very seriously. Therefore, we treat your personal data confidentially and in accordance with the legal data protection regulations and this privacy policy.
+
+When you use our website, various personal data is collected. Personal data refers to data with which you can be personally identified. In this privacy policy, we explain which data we collect and how we use it. It also discloses how and for what purpose this occurs.
+
+We would like to point out that data transmission over the internet (e.g., communication by email) can have security vulnerabilities. Complete protection of data from access by third parties is not possible.
+
+#### Responsible Authority
+The responsible authority for data processing on this website is:
+Jennifer Wohlfahrtstätter & Patrick Fuchs  
+Email: hello@onememorypermile.com
+
+A responsible authority is the person who alone or together with others decides on the purposes and means of processing personal data (e.g., names, email addresses, etc.).
+
+#### Withdrawal of Consent to Data Processing
+Many data processing operations are only possible with your explicit consent. You can withdraw an already granted consent at any time. For this, an informal notification by email to us is sufficient. The legality of the data processing carried out until the withdrawal remains unaffected by the withdrawal.
+
+#### Right to Lodge a Complaint with the Supervisory Authority
+In case of a data protection violation, the affected person has the right to lodge a complaint with the relevant supervisory authority. The supervisory authority responsible for data protection issues is the data protection authority of the Republic of Austria.
+
+#### Right to Data Portability
+You have the right to receive data that we process automatically based on your consent or in fulfillment of a contract, in a structured, commonly used, and machine-readable format. If you request the direct transfer of data to another controller, this will only be done if technically feasible.
+
+#### SSL Encryption
+For security reasons and to protect the transmission of confidential content, such as inquiries you send to us as the operator of this website, we use SSL encryption. You can recognize an encrypted connection by the change in the browser's address bar from “http://” to “https://” and the lock symbol in your browser bar.
+
+When SSL encryption is activated, the data you transmit to us cannot be read by third parties.
+
+#### Information, Blocking, Deletion
+You have the right to receive information about your stored personal data, its origin, and recipients, as well as the purpose of the data processing, and, if applicable, the right to correction, blocking, or deletion of this data, within the framework of the applicable legal provisions, at any time free of charge. For this and other questions regarding personal data, you can always contact us using the contact details provided in the imprint.
+
+## 3. Data Collection on Our Website
+
+#### Cookies
+Our website uses so-called cookies. Cookies do not harm your computer and do not contain viruses. Rather, cookies serve to make our offer more user-friendly, efficient, and secure. Cookies are small text files that are stored on your computer system via your internet browser.
+
+Most of the cookies we use are so-called “session cookies.” They are automatically deleted at the end of your visit. Other cookies remain on your end device until you delete them. These cookies allow us to recognize your browser on your next visit.
+
+You can configure your browser to inform you about the setting of cookies and only allow cookies in individual cases. Furthermore, you can exclude the acceptance of cookies for specific cases or in general, and activate the automatic deletion of cookies when closing your browser. However, we would like to point out that the deactivation of cookies may limit the functionality of our website.
+
+Cookies that are necessary for the electronic communication process or for providing certain functions requested by you will be stored based on Article 6(1)(f) of the GDPR. Our legitimate interest in the storage of cookies lies in the technical error-free and optimized provision of our services. Further cookies (e.g., cookies for analyzing your browsing behavior) are dealt with separately in this privacy policy.
+
+Further information can be found in the [Cookie Policy](cookie-policy.html).
+
+#### Server Log Files
+The provider of our website collects and stores information automatically in so-called server log files, which your browser automatically transmits to us. These are:
+- Browser type and browser version
+- Used operating system
+- Referrer URL
+- Hostname of the accessing computer
+- Time of the server request
+- IP address
+
+This data is not merged with other data sources.
+
+The legal basis for data processing is Article 6(1)(b) GDPR, which allows data processing for the performance of a contract or pre-contractual measures.
+
+#### Storage of IP Addresses
+Our comment function stores the IP addresses of users who write comments. Since we partially review comments on our page before publishing, we need this data to take action against the author in case of legal violations such as insults or propaganda.
+
+## 4. Social Media
+
+#### Sharing Content via Social Media
+The content on our pages can be shared in social networks such as Instagram, Facebook, Twitter, Google+, and Pinterest in compliance with data protection regulations. Direct contact between the networks and users is established only when the user actively clicks on one of these buttons.
+
+No automatic data transfer to the operators of these platforms occurs. If you are logged into one of the social networks, an information window appears when using the social media buttons on Instagram, Facebook, Google+, Twitter & Pinterest on our website, in which you can confirm the text before submitting it.
+
+We do not use plugins provided by social media platforms on our website. Our users can thus share the content of our website in social networks in compliance with data protection regulations, without the operators of the networks creating complete browsing profiles.
+
+#### Instagram
+Our website integrates a plugin showing our photos posted on the social media platform Instagram. The provider of Instagram is Instagram Inc., 1601 Willow Road, Menlo Park, CA 94025, USA.
+
+The plugin does not store personal data. However, your IP address may be stored on Instagram's server. We integrate our Instagram images on our website to keep our readers informed about our current travel destinations. Furthermore, displaying our Instagram images serves to provide the best and most complete representation of our travel content. This constitutes a legitimate interest under Article 6(1)(f) of the GDPR.
+
+Further information on handling user data can be found in Instagram's privacy policy at: [Instagram Privacy Policy](https://help.instagram.com/155833707900388).
+
+## 5. Analysis Tools and Advertising
+
+#### Google Analytics 4
+If you have given your consent, Google Analytics 4, a web analysis service from Google LLC, is used on this website. The responsible party for users in the EU/EEA and Switzerland is Google Ireland Limited, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland ("Google").
+
+##### Type and Purpose of Processing
+Google Analytics uses cookies that enable an analysis of the use of our websites. The information collected through the cookies about your use of this website is usually transferred to a Google server in the USA and stored there.
+
+In Google Analytics 4, IP address anonymization is enabled by default. As a result, your IP address is truncated by Google within the member states of the European Union or in other signatory states of the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be transferred to a Google server in the USA and truncated there. The IP address transmitted by your browser within the framework of Google Analytics is not merged with other Google data according to Google.
+
+While visiting our website, your user behavior is recorded in the form of “events.” 
+These events include:
+- Page views
+- First visit to the website
+- Start of the session
+- Visited pages
+- Click path, interaction with the website
+- Scrolls (whenever a user scrolls to the bottom of the page (90%))
+- Clicks on external links
+- Internal search queries
+- Interaction with videos
+- File downloads
+- Viewed/clicked ads
+- Language settings
+
+Furthermore, the following is recorded:
+- Your approximate location (region)
+- Date and time of your visit
+- Your IP address (in truncated form)
+- Technical information about your browser and the devices you use (e.g., language setting, screen resolution)
+- Your internet service provider
+- The referrer URL (the website or advertisement that brought you to this website)
+
+##### Purpose of Processing
+Google will use this information on behalf of the website operator to evaluate your use of the website and compile reports on website activities. The reports provided by Google Analytics are used to analyze the performance of our website.
+
+##### Recipients
+Recipients of the data are or may be:
+- Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland (as a processor under Article 28 of the GDPR)
+- Google LLC, 1600 Amphitheatre Parkway Mountain View, CA 94043, USA
+- Alphabet Inc., 1600 Amphitheatre Parkway Mountain View, CA 94043, USA
+
+##### Third-Country Transfer
+For the USA, the European Commission adopted its adequacy decision on July 10, 2023. Google LLC is certified under the EU-US Privacy Framework. Since Google servers are distributed worldwide and data transfer to third countries (e.g., Singapore) cannot be completely ruled out, we have also concluded the [EU Standard Contractual Clauses](https://business.safety.google/adsprocessorterms/sccs/c2p/) with the provider.
+
+##### Storage Duration
+The data sent by us and linked with cookies is automatically deleted after 2 years. The maximum lifetime of the Google Analytics cookies is 2 years. The deletion of data, whose retention period has expired, is done automatically once a month.
+
+##### Legal Basis
+The legal basis for this data processing is your consent according to Article 6(1)(a) GDPR and Section 25(1)(1) TTDSG.
+
+##### Withdrawal
+You can withdraw your consent at any time with effect for the future by accessing the cookie settings and changing your selection there. The legality of the processing carried out based on the consent until the withdrawal remains unaffected.
+
+Further information on the terms of use and data protection can be found in Google's terms of service and privacy policy: [Google Terms of Service](https://policies.google.com/terms?hl=en) and [Google Privacy Policy](https://policies.google.com/privacy?hl=en).
+
+# Datenschutzerklärung
+
 Vielen Dank für dein Interesse am Thema Datenschutz. 
 Nachfolgend möchten wir dich darüber aufklären, was mit deinen personenbezogenen Daten passiert, wenn du unsere Website besuchst. Personenbezogene Daten sind alle Daten, mit denen du persönlich identifiziert werden kannst. In unserer Datenschutzerklärung findest du ausführliche Informationen zum Thema Datenschutz. 
 
@@ -113,7 +273,7 @@ Weitere Informationen zum Umgang mit Nutzerdaten findest du in der Datenschutzer
 #### Google Analytics 4 
 Soweit Sie Ihre Einwilligung erklärt haben, wird auf dieser Website Google Analytics 4 eingesetzt, ein Webanalysedienst der Google LLC. Verantwortliche Stelle für Nutzer in der EU/ dem EWR und der Schweiz ist Google Ireland Limited, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Irland („Google“). 
 
-#### Art und Zweck der Verarbeitung 
+##### Art und Zweck der Verarbeitung 
 Google Analytics verwendet Cookies, die eine Analyse der Benutzung unserer Webseiten durch Sie ermöglichen. Die mittels der Cookies erhobenen Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. 
 
 Bei Google Analytics 4 ist die Anonymisierung von IP-Adressen standardmäßig aktiviert. Aufgrund der IP-Anonymisierung wird Ihre IP-Adresse von Google innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird laut Google nicht mit anderen Daten von Google zusammengeführt. Während Ihres Website-Besuchs wird Ihr Nutzerverhalten in Form von „Ereignissen“ erfasst. 
@@ -135,25 +295,25 @@ Außerdem wird erfasst:
 -Ihr Internetanbieter 
 -die Referrer-URL (über welche Website/ über welches Werbemittel Sie auf diese Website gekommen sind) 
 
-#### Zwecke der Verarbeitung 
+##### Zwecke der Verarbeitung 
 Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten und um Reports über die Website-Aktivitäten zusammenzustellen. Die durch Google Analytics bereitgestellten Reports dienen der Analyse der Leistung unserer Website. 
 
-#### Empfänger 
+##### Empfänger 
 Empfänger der Daten sind/können sein:
 -Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland (als Auftragsverarbeiter nach Art. 28 DSGVO) 
 -Google LLC, 1600 Amphitheatre Parkway Mountain View, CA 94043, USA 
 -Alphabet Inc., 1600 Amphitheatre Parkway Mountain View, CA 94043, USA 
 
-#### Drittlandtransfer 
+##### Drittlandtransfer 
 Für die USA hat die Europäische Kommission am 10.Juli 2023 ihren Angemessenheitsbeschluss angenommen. Google LLC ist nach dem EU-US Privacy Framework zertifiziert. Da Google-Server weltweit verteilt sind und eine Übertragung in Drittländer (beispielsweise nach Singapur) nicht völlig ausgeschlossen werden kann, haben wir mit dem Anbieter zudem die [EU-Standardvertragsklauseln](https://business.safety.google/adsprocessorterms/sccs/c2p/){:target="_blank"} abgeschlossen. 
 
-#### Speicherdauer 
+##### Speicherdauer 
 Die von uns gesendeten und mit Cookies verknüpften Daten werden nach 2 automatisch gelöscht. Die maximale Lebensdauer der Google Analytics Cookies beträgt 2 Jahre. Die Löschung von Daten, deren Aufbewahrungsdauer erreicht ist, erfolgt automatisch einmal im Monat. 
 
-#### Rechtsgrundlage 
+##### Rechtsgrundlage 
 Rechtsgrundlage für diese Datenverarbeitung ist Ihre Einwilligung gem. Art.6 Abs.1 S.1 lit.a DSGVO und § 25 Abs. 1 S.1 TTDSG.  
 
-#### Widerruf 
+##### Widerruf 
 Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen, indem Sie die Cookie-Einstellungen aufrufen und dort Ihre Auswahl ändern. Die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung bleibt davon unberührt. 
 
 Sie können die Speicherung von Cookies auch von vornherein durch eine entsprechende Einstellung Ihrer Browser-Software verhindern. Wenn Sie Ihren Browser so konfigurieren, dass alle Cookies abgelehnt werden, kann es jedoch zu Einschränkung von Funktionalitäten auf dieser und anderen Websites kommen. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie
@@ -162,7 +322,7 @@ b. das Browser-Add-on zur Deaktivierung von Google Analytics [HIER](https://tool
 
 Nähere Informationen zu Nutzungsbedingungen von Google Analytics und zum Datenschutz bei Google finden Sie unter https://marketingplatform.google.com/about/analytics/terms/de/ und unter https://policies.google.com/?hl=de. 
 
-#### Auftragsdatenverarbeitung 
+##### Auftragsdatenverarbeitung 
 Wir haben mit Google einen Vertrag zur Auftragsdatenverarbeitung abgeschlossen und setzen die Vorgaben der österreichischen Datenschutzbehörde bei der Nutzung von Google Analytics vollständig um. 
 
 ## 6. Links
