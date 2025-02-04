@@ -303,7 +303,7 @@ Weitere Informationen zum Umgang mit Nutzerdaten findest du in der Datenschutzer
 #### Google Analytics 4 
 Soweit Sie Ihre Einwilligung erklärt haben, wird auf dieser Website Google Analytics 4 eingesetzt, ein Webanalysedienst der Google LLC. Verantwortliche Stelle für Nutzer in der EU/ dem EWR und der Schweiz ist Google Ireland Limited, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Irland („Google“). 
 
-##### Art und Zweck der Verarbeitung 
+#### Art und Zweck der Verarbeitung 
 Google Analytics verwendet Cookies, die eine Analyse der Benutzung unserer Webseiten durch Sie ermöglichen. Die mittels der Cookies erhobenen Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. 
 
 Bei Google Analytics 4 ist die Anonymisierung von IP-Adressen standardmäßig aktiviert. Aufgrund der IP-Anonymisierung wird Ihre IP-Adresse von Google innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird laut Google nicht mit anderen Daten von Google zusammengeführt. Während Ihres Website-Besuchs wird Ihr Nutzerverhalten in Form von „Ereignissen“ erfasst. 
@@ -325,25 +325,25 @@ Außerdem wird erfasst:
 -Ihr Internetanbieter 
 -die Referrer-URL (über welche Website/ über welches Werbemittel Sie auf diese Website gekommen sind) 
 
-##### Zwecke der Verarbeitung 
+#### Zwecke der Verarbeitung 
 Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten und um Reports über die Website-Aktivitäten zusammenzustellen. Die durch Google Analytics bereitgestellten Reports dienen der Analyse der Leistung unserer Website. 
 
-##### Empfänger 
+#### Empfänger 
 Empfänger der Daten sind/können sein:
 -Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland (als Auftragsverarbeiter nach Art. 28 DSGVO) 
 -Google LLC, 1600 Amphitheatre Parkway Mountain View, CA 94043, USA 
 -Alphabet Inc., 1600 Amphitheatre Parkway Mountain View, CA 94043, USA 
 
-##### Drittlandtransfer 
+#### Drittlandtransfer 
 Für die USA hat die Europäische Kommission am 10.Juli 2023 ihren Angemessenheitsbeschluss angenommen. Google LLC ist nach dem EU-US Privacy Framework zertifiziert. Da Google-Server weltweit verteilt sind und eine Übertragung in Drittländer (beispielsweise nach Singapur) nicht völlig ausgeschlossen werden kann, haben wir mit dem Anbieter zudem die [EU-Standardvertragsklauseln](https://business.safety.google/adsprocessorterms/sccs/c2p/){:target="_blank"} abgeschlossen. 
 
-##### Speicherdauer 
+#### Speicherdauer 
 Die von uns gesendeten und mit Cookies verknüpften Daten werden nach 2 automatisch gelöscht. Die maximale Lebensdauer der Google Analytics Cookies beträgt 2 Jahre. Die Löschung von Daten, deren Aufbewahrungsdauer erreicht ist, erfolgt automatisch einmal im Monat. 
 
-##### Rechtsgrundlage 
+#### Rechtsgrundlage 
 Rechtsgrundlage für diese Datenverarbeitung ist Ihre Einwilligung gem. Art.6 Abs.1 S.1 lit.a DSGVO und § 25 Abs. 1 S.1 TTDSG.  
 
-##### Widerruf 
+#### Widerruf 
 Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen, indem Sie die Cookie-Einstellungen aufrufen und dort Ihre Auswahl ändern. Die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung bleibt davon unberührt. 
 
 Sie können die Speicherung von Cookies auch von vornherein durch eine entsprechende Einstellung Ihrer Browser-Software verhindern. Wenn Sie Ihren Browser so konfigurieren, dass alle Cookies abgelehnt werden, kann es jedoch zu Einschränkung von Funktionalitäten auf dieser und anderen Websites kommen. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie
@@ -352,7 +352,7 @@ b. das Browser-Add-on zur Deaktivierung von Google Analytics [HIER](https://tool
 
 Nähere Informationen zu Nutzungsbedingungen von Google Analytics und zum Datenschutz bei Google finden Sie unter https://marketingplatform.google.com/about/analytics/terms/de/ und unter https://policies.google.com/?hl=de. 
 
-##### Auftragsdatenverarbeitung 
+#### Auftragsdatenverarbeitung 
 Wir haben mit Google einen Vertrag zur Auftragsdatenverarbeitung abgeschlossen und setzen die Vorgaben der österreichischen Datenschutzbehörde bei der Nutzung von Google Analytics vollständig um. 
 
 ## 6. Links
