@@ -193,10 +193,16 @@ footer a:hover {
     margin: 0.2rem;
 }
 
-.fa-solid { 
+.fa-angles-right { 
     display: inline-block;
     margin-left: 0.5rem;
     margin-top: 0.35rem;
+    font-size: 1.2rem;
+}
+
+.fa-angle-up{ 
+    display: inline-block;
+    margin-top: 0.1rem;
     font-size: 1.2rem;
 }
 
@@ -401,7 +407,7 @@ form .button2 {
     right: 1rem;
     bottom: 0;
     width: calc(100% - 2rem);
-    background: #595946;
+    background: #d3b4a2;
     color: rgba(255, 255, 255, 0.8);
     min-height: 30%;
   }
@@ -468,7 +474,7 @@ form .button2 {
     h3 { font-size: 1.6rem;}
     h4 { font-size: 1.2rem;}
 
-    .fa-solid {margin-top: 0.25rem;}
+    .fa-angles-right {margin-top: 0.25rem;}
 }
 
 
@@ -492,7 +498,7 @@ form .button2 {
         background-position: 45% 50%;
     }
 
-    .fa-solid {margin-top: 0.4rem;}
+    .fa-angles-right {margin-top: 0.4rem;}
 
     .button {padding: 0.3rem 1rem;}
 }
