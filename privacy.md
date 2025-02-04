@@ -1,6 +1,5 @@
 ---
 layout: datenschutz-layout
-title: Privacy Policy
 seo:
   title: Privacy-Policy
   description: 'Learn more about how we protect and process your personal data.'
@@ -164,6 +163,8 @@ The legal basis for this data processing is your consent according to Article 6(
 You can withdraw your consent at any time with effect for the future by accessing the cookie settings and changing your selection there. The legality of the processing carried out based on the consent until the withdrawal remains unaffected.
 
 Further information on the terms of use and data protection can be found in Google's terms of service and privacy policy: [Google Terms of Service](https://policies.google.com/terms?hl=en) and [Google Privacy Policy](https://policies.google.com/privacy?hl=en).
+
+<hr>
 
 # Datenschutzerklärung
 

@@ -1,6 +1,5 @@
 ---
 layout: datenschutz-layout
-title: Cookie Policy
 seo:
   title: Cookie-Policy
   description: 'Learn more about the use of cookies on our website and how they enhance your experience.'

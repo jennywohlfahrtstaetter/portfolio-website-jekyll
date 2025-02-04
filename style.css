@@ -58,12 +58,8 @@ html {
 /* ---------- Negative Space Utility Classes  ------------------ */ 
 
 
-.capped-width { 
-    max-width: 700px;
-    margin: auto;
-}
+.capped-width {   max-width: 700px; margin: auto;}
 .capped-width-wide {max-width: 1000px; margin:auto}
-
 
 
 /* flipped die reihenfolge im jekyll loop, nth child kann odd oder even sein, je nach dem bei welchem bild gestartet werden soll; row reverse dreht die reihe um; column reverse dreht die reihenfolge innerhalb einer reihe um -> oft gut für mobile responsive design */
@@ -382,8 +378,9 @@ form .button2 {
   }
   
   .md-style hr {
+    margin: 5% 0;
     border: none;
-    border: 1px solid var(--medium);
+    border: 1px solid #595946;
   }
   
   .md-style li{
