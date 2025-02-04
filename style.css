@@ -394,7 +394,7 @@ form .button2 {
 
 #cookie-notice {
     display: none;
-    padding: 1rem;
+    padding: 2rem;
     text-align: center;
     position: fixed;
     left: 1rem;
@@ -430,7 +430,7 @@ form .button2 {
   }
   
   .reshow-button {
-    background-color: var(--v-light);
+    background-color: #faf6fc;
     position: fixed;
     bottom: -0.3rem;
     right: 0.1rem;

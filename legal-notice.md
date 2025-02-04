@@ -1,5 +1,5 @@
 ---
-layout: Legal-Notice
+layout: datenschutz-layout
 seo:
   title: Legal-Notice
   description: 'Find all about our contactdetails in our legal notice'
