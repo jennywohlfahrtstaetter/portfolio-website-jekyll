@@ -101,13 +101,6 @@ No automatic data transfer to the operators of these platforms occurs. If you ar
 
 We do not use plugins provided by social media platforms on our website. Our users can thus share the content of our website in social networks in compliance with data protection regulations, without the operators of the networks creating complete browsing profiles.
 
-#### Instagram
-Our website integrates a plugin showing our photos posted on the social media platform Instagram. The provider of Instagram is Instagram Inc., 1601 Willow Road, Menlo Park, CA 94025, USA.
-
-The plugin does not store personal data. However, your IP address may be stored on Instagram's server. We integrate our Instagram images on our website to keep our readers informed about our current travel destinations. Furthermore, displaying our Instagram images serves to provide the best and most complete representation of our travel content. This constitutes a legitimate interest under Article 6(1)(f) of the GDPR.
-
-Further information on handling user data can be found in Instagram's privacy policy at: [Instagram Privacy Policy](https://help.instagram.com/155833707900388){:target="_blank"}.
-
 ## 5. Analysis Tools and Advertising
 
 #### Google Analytics 4
@@ -191,7 +184,7 @@ We use Calendly, a scheduling tool, to facilitate the booking of appointments th
 
 This data is necessary for coordinating and managing your appointment. 
 
-Calendly's privacy policy applies to the data collected through their platform, and you can review it on their website for more details on how your information is handled. By using Calendly, you consent to the processing of your data in accordance with their terms and privacy policy on: [Privacy Policy](https://calendly.com/legal/privacy-notice){:target="_blank"} and on [Terms and Conditions](https://calendly.com/legal){:target="_blank"}.
+Calendly's privacy policy applies to the data collected through their platform, and you can review it on their website for more details on how your information is handled. By using Calendly, you consent to the processing of your data in accordance with their [Privacy Policy](https://calendly.com/legal/privacy-notice){:target="_blank"} and on [Terms and Conditions](https://calendly.com/legal){:target="_blank"}.
 
 <hr>
 
@@ -263,7 +256,7 @@ Du kannst deinen Browser so einstellen, dass du über das Setzen von Cookies inf
 
 Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs oder zur Bereitstellung bestimmter, von dir erwünschter Funktionen erforderlich sind, werden auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO gespeichert. Unser berechtigtes Interesse an der Speicherung von Cookies dient der technisch fehlerfreien und optimierten Bereitstellung unserer Dienste. Weitere Cookies (z.B. Cookies zur Analyse deines Surfverhaltens) werden in dieser Datenschutzerklärung gesondert behandelt. 
 
-Weitere Informationen können in den [Cookie Richtlinien](cookie-richtlinie.html) eingesehen werden. 
+Weitere Informationen können in den [Cookie Richtlinien](cookie-policy) eingesehen werden. 
 
 #### Server-Log-Dateien 
 
@@ -290,13 +283,6 @@ Die Inhalte auf unseren Seiten können datenschutzkonform in sozialen Netzwerken
 Es erfolgt keine automatische Übertragung von Nutzerdaten an die Betreiber dieser Plattformen. Wenn du als Nutzer bei einem der sozialen Netzwerke angemeldet bist, erscheint bei der Nutzung der Social-Media-Buttons von Instagram, Facebook, Google+, Twitter & Pinterest auf unserer Website ein Informationsfenster, in welchem du den Text vor dem Absenden bestätigen kannst. 
 
 Wir nutzen auf unserer Website keine Plugins, die von den Social-Media-Plattformen zur Verfügung gestellt werden. Unsere Nutzer können die Inhalte unserer Website somit datenschutzkonform in sozialen Netzwerken teilen, ohne dass komplette Surf-Profile durch die Betreiber der Netzwerke erstellt werden. 
-
-#### Instagram 
-Auf unserer Website wird ein Plugin eingebunden, welches unsere Fotos zeigt, die wir auf der Social-Media-Plattform Instagram gepostet haben. Anbieter von Instagram ist die Instagram Inc., 1601 Willow Road, Menlo Park, CA 94025, USA. 
-
-Das Plugin speichert keine personenbezogenen Daten. Es kann allerdings sein, dass deine IP-Adresse auf dem Server von Instagram gespeichert wird. Wir binden unsere Instagram-Bilder auf unserer Website ein, um unsere Leser über unsere aktuellen Reiseziele auf dem Laufenden zu halten. Außerdem dient die Darstellung unserer Instagram-Bilder einer bestmöglichen und vollständigen Darstellung unserer Reiseinhalte. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar. 
-
-Weitere Informationen zum Umgang mit Nutzerdaten findest du in der [Datenschutzerklärung](https://help.instagram.com/155833707900388){:target="_blank"} von Instagram. 
 
 ## 5. Analysetools und Werbung 
 
@@ -363,7 +349,7 @@ Als Diensteanbieter sind wir gemäß § 7 Abs.1 DDG für eigene Inhalte auf dies
 #### Haftung für Links 
 Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen. Urheberrecht Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen 
 
-#### Urheberrecht. 
+#### Urheberrecht
 Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
 ## 7. Plugins und Tools
@@ -373,8 +359,6 @@ Wir verwenden Formspree, einen Dienst, der es uns ermöglicht, Formulare auf uns
 
 #### Calendly
 
-Wir verwenden Calendly, ein Planungstool, um die Buchung von Terminen über unsere Website zu erleichtern. Wenn Sie Calendly verwenden, um einen Termin zu vereinbaren, werden die von Ihnen angegebenen Daten, wie Ihr Name, Ihre E-Mail-Adresse und der gewählte Zeitraum, von Calendly verarbeitet.
+Wir verwenden Calendly, ein Planungstool, um die Buchung von Terminen über unsere Website zu erleichtern. Wenn Sie Calendly verwenden, um einen Termin zu vereinbaren, werden die von Ihnen angegebenen Daten, wie Ihr Name, Ihre E-Mail-Adresse und der gewählte Zeitraum, von Calendly verarbeitet. Diese Daten sind notwendig, um Ihren Termin zu koordinieren und zu verwalten.
 
-Diese Daten sind notwendig, um Ihren Termin zu koordinieren und zu verwalten.
-
-Die Datenschutzerklärung von Calendly gilt für die über ihre Plattform gesammelten Daten, und Sie können diese auf ihrer Website einsehen, um weitere Details darüber zu erfahren, wie Ihre Informationen verarbeitet werden. Durch die Nutzung von Calendly stimmen Sie der Verarbeitung Ihrer Daten gemäß ihren Bedingungen und ihrer Datenschutzerklärung zu, die unter [Privacy Policy](https://calendly.com/legal/privacy-notice){:target="_blank"} und unter [Terms and Conditions](https://calendly.com/legal){:target="_blank"}. verfügbar sind.
+Die Datenschutzerklärung von Calendly gilt für die über ihre Plattform gesammelten Daten, und Sie können diese auf ihrer Website einsehen, um weitere Details darüber zu erfahren, wie Ihre Informationen verarbeitet werden. Durch die Nutzung von Calendly stimmen Sie der Verarbeitung Ihrer Daten gemäß ihren Bedingungen und ihrer Datenschutzerklärung zu, die unter [Privacy Policy](https://calendly.com/legal/privacy-notice){:target="_blank"} und unter [Terms and Conditions](https://calendly.com/legal){:target="_blank"} verfügbar sind.

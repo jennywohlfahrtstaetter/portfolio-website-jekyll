@@ -33,13 +33,10 @@ We use analytical cookies to optimize the website experience for our users. With
 #### 5.3 Marketing / Tracking Cookies
 Marketing / tracking cookies are cookies or other forms of local storage used to create user profiles to display advertisements or track the user across this website or multiple websites for similar marketing purposes.
 
-#### 5.4 Social Media
-On our website, we have embedded content from Instagram and Pinterest to promote web pages (e.g., "Like", "Pin") or share (e.g., "Tweet") on social networks like Instagram and Pinterest. This content is embedded with code from Instagram and Pinterest and places cookies. These contents may store and process certain information for personalized advertising.
-
-Please read the privacy policy of these social networks (which may change regularly) to learn how they handle your (personal) data processed using these cookies. The retrieved data will be anonymized as much as possible. Instagram and Pinterest have their headquarters in the United States.
-
 ## 6. Placed Cookies  
-- Google Analytics (GA4)
+Our website uses only a functional cookie set by the cookie banner to store your cookie preferences:
+
+cookie_consent (Stores your cookie settings so that you are not asked again on each visit.)
 
 ## 7. Consent
 When you first visit our website, we will show you a pop-up with a statement about cookies. Once you click "Save Settings," you give us your consent to use all the categories of cookies and plugins you have chosen, as described in this Cookie Policy. You can disable the use of cookies through your browser, but please note that our website may not function properly as a result. 
@@ -91,13 +88,10 @@ Wir verwenden analytische Cookies, um das Website-Erlebnis für unsere Nutzer zu
 #### 5.3 Marketing- / Tracking-Cookies
 Marketing- / Tracking-Cookies sind Cookies oder eine andere Form der lokalen Speicherung, die zur Erstellung von Benutzerprofilen verwendet werden, um Werbung anzuzeigen oder den Benutzer auf dieser Website oder über mehrere Websites hinweg für ähnliche Marketingzwecke zu verfolgen.
 
-#### 5.4 Soziale-Medien
-Auf unserer Website haben wir Inhalte von Instagram und Pinterest eingebunden, um Webseiten zu bewerben (z. B. “Gefällt mir”, “Pin”) oder zu teilen (z. B. “Tweet”) in sozialen Netzwerken wie Instagram und Pinterest. Dieser Inhalt ist mit einem Code eingebettet, der von Instagram und Pinterest stammt und Cookies platziert. Diese Inhalte können bestimmte Informationen für personalisierte Werbung speichern und verarbeiten.
-
-Bitte lies die Datenschutzerklärung dieser sozialen Netzwerke (die sich regelmäßig ändern kann), um zu erfahren, wie sie mit deinen (persönlichen) Daten umgehen, die sie mithilfe dieser Cookies verarbeiten. Die abgerufenen Daten werden so weit wie möglich anonymisiert. Instagram und Pinterest hat seine Sitze in den Vereinigten Staaten
-
 ## 6. Platzierte Cookies  
-- Goolge Analytics (GA4)
+Unsere Website verwendet ausschließlich ein funktionales Cookie, das vom Cookie-Banner gesetzt wird, um deine Cookie-Präferenzen zu speichern:
+
+cookie_consent (Speichert deine Cookie-Einstellungen, damit du nicht bei jedem Besuch erneut gefragt wirst.)
 
 ## 7. Zustimmung
 Wenn du unsere Website das erste Mal besuchst, zeigen wir dir ein Pop-Up mit einer Erklärung über Cookies. Sobald du auf „Einstellungen speichern“ klickst, gibst du uns dein Einverständnis, alle von dir gewählten Kategorien von Cookies und Plugins wie in dieser Cookie-Erklärung beschrieben zu verwenden. Du kannst die Verwendung von Cookies über deinen Browser deaktivieren, aber bitte beachte, dass unsere Website dann unter Umständen nicht richtig funktioniert. 
