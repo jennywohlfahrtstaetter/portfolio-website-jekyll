@@ -29,6 +29,7 @@ html {
 .padded-1  { padding: 1rem;  }
 .padded-2  { padding: 2rem;  }
 .padded-l-05 {padding-left: 0.5rem;}
+.padded-r-05 {padding-right: 0.5rem;}
 
 .padded-t  { padding-top: 5%;    }
 .padded-b  { padding-bottom: 5%; }
