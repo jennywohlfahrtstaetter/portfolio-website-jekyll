@@ -19,7 +19,7 @@ seo:
 <section class="padded-10 md-padded-5">
     <!-- demo websites -->
     <!-- Achtung: in config file muss output true geadded werden damit das funktioniert; dann unbedingt Jekyll neu starten - sonst wird config nicht umgesetzt! -->
-    {% for project in site.projects limit: 3 %}
+    {% for project in site.projects limit: 2 %}
 
     <div class="grid-center margin-b-2">
         <div class="col-7_md-12-middle">
@@ -68,7 +68,7 @@ seo:
 </section> -->
 
 <section class="padded-10 md-padded-5">
-    {% for project in site.projects limit: 2 offset: 3 %}
+    {% for project in site.projects limit: 3 offset: 2 %}
 
     <div class="grid-center margin-b-2">
         <div class="col-7_md-12-middle">
