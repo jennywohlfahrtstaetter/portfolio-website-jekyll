@@ -484,6 +484,7 @@ form .button2 {
     .sm-center { text-align: center; }
     .sm-block {display: block;}
     .sm-flex-flip { flex-direction: column-reverse; }
+    .sm-padded {padding: 5%;}
     .sm-padded-tb {padding-top:8%; padding-bottom: 8%;padding-left: 5%; padding-right:5%;}
     .sm-padded-footer {padding-top:8%; padding-bottom: 0%;padding-left: 5%; padding-right:5%;}
     .sm-padded-t {padding-top: 5%;}
