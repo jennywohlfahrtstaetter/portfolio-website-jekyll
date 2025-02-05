@@ -23,6 +23,7 @@ html {
 .vh90 { min-height: 90vh; }
 
 .padded    { padding: 5%;    }
+.padded-5-8 {padding-left: 5%; padding-right: 5%; padding-top: 8%; padding-bottom: 8%;}
 .padded-10 { padding: 10%;   }
 .padded-t-10 {padding-top: 10%;}
 .padded-1  { padding: 1rem;  }
