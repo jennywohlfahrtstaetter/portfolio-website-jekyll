@@ -68,11 +68,6 @@ html {
     flex-direction: row-reverse;
 }
 
-.emphasis {
-    font-size: 1.1rem;
-    font-weight: 400;
-}
-
 .copyright { 
     opacity: 0.8;
     font-size: 0.9rem;
