@@ -6,7 +6,7 @@
 
 img { max-width: 100%; }
 
-[class*=grid] {
+[class*=grid], [class*="col-"] {
     margin:0;
 }
 
