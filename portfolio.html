@@ -42,7 +42,7 @@ seo:
 {% include consultation-CTA.html %}
 
 <!-- featured project -->
-<section class="padded-10 md-padded-5">
+<!-- <section class="padded-10 md-padded-5">
     <h2 class="center padded-b"> Featured Project</h2>
 
     <div class="capped-width">
@@ -65,5 +65,24 @@ seo:
 
         {% endfor %}
     </div>
+
+</section> -->
+
+<section class="padded-10 md-padded-5">
+    {% for project in site.projects limit: 3 offset: 3 %}
+
+    <div class="grid-center margin-b-2">
+        <div class="col-7_md-12-middle">
+            <div class="bg-image landscape" style="background-image: url('{{project.featured_image}}')"> </div>
+        </div>
+
+        <div class="col-5_md-12-middle padded-2 md-center">
+            <h3>{{project.title}}</h3>
+            <p>{{project.description}}</p>
+            <p> Design by: {{project.design-by}} | Built by: {{project.built-by}}</p>
+            <a href="{{project.live_url}}" class="button2" target="_blank">View Live Site</a>
+        </div>
+    </div>
+    {% endfor %}
 
 </section>
