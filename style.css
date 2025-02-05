@@ -506,9 +506,3 @@ form .button2 {
 
     .button {padding: 0.3rem 1rem;}
 }
-
-/* SMALL - SM - max-width in pixels approximately 768px */
-@media(max-width: 36em) {
-
-  .xs-hide {display: none;}
-}
