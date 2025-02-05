@@ -34,10 +34,11 @@ html {
 .padded-b  { padding-bottom: 5%; }
 .padded-l  { padding-left: 5%;   }
 .padded-r  { padding-right: 5%;  }
+.padded-2-05 {padding: 2rem 0.5rem;}
 
 .padded-lr { padding-left: 5%; padding-right: 5%;}
 
-.padded-b-05 {padding-bottom: 0.5rem;;}
+.padded-b-05 {padding-bottom: 0.5rem;}
 
 .padded-0 { padding: 0; }
 .padded-b-0 { padding-bottom: 0; }
