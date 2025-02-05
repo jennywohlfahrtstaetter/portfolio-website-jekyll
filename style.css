@@ -489,6 +489,7 @@ form .button2 {
     .sm-block {display: block;}
     .sm-flex-flip { flex-direction: column-reverse; }
     .sm-padded-t {padding-top: 5%;}
+    .sm-padded-t-0 {padding-top: 0;}
 
     .bg-plant {
         background-image: url('/images/plant-light.webp');
