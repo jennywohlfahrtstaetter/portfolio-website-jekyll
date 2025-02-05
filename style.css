@@ -465,6 +465,7 @@ form .button2 {
 
     .md-hide { display: none; }
     .md-center { text-align: center; }
+    .md-padded-0 {padding: 0;}
 
     h1 {font-size: 1.8rem;}
     h2 { font-size: 2rem;}
