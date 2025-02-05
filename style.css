@@ -34,7 +34,6 @@ html {
 .padded-b  { padding-bottom: 5%; }
 .padded-l  { padding-left: 5%;   }
 .padded-r  { padding-right: 5%;  }
-.padded-2-05 {padding: 2rem 0.5rem;}
 
 .padded-lr { padding-left: 5%; padding-right: 5%;}
 
@@ -469,6 +468,7 @@ form .button2 {
     .md-hide { display: none; }
     .md-center { text-align: center; }
     .md-padded-0 {padding: 0;}
+    .md-padded-2-05 {padding: 2rem 0.5rem;}
 
     h1 {font-size: 1.8rem;}
     h2 { font-size: 2rem;}
