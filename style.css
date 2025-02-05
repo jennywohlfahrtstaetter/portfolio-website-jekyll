@@ -495,6 +495,7 @@ form .button2 {
     .sm-padded-t {padding-top: 5%;}
     .sm-padded-t-0 {padding-top: 0;}
     .sm-padded-0 {padding: 0;}
+    .sm-padded-1-05 {padding: 1rem 0.5rem;}
 
     .bg-plant {
         background-image: url('/images/plant-light.webp');
