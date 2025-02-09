@@ -186,6 +186,18 @@ This data is necessary for coordinating and managing your appointment.
 
 Calendly's privacy policy applies to the data collected through their platform, and you can review it on their website for more details on how your information is handled. By using Calendly, you consent to the processing of your data in accordance with their [Privacy Policy](https://calendly.com/legal/privacy-notice){:target="_blank"} and on [Terms and Conditions](https://calendly.com/legal){:target="_blank"}.
 
+#### Google Fonts
+
+This website uses so-called Google Fonts provided by Google to ensure a consistent display of typefaces. When you access a page, your browser downloads the required fonts into its cache in order to display texts and fonts correctly.
+
+For this purpose, the browser you are using must establish a connection to Google's servers. Through this connection, Google becomes aware that this website was accessed via your IP address. The use of Google Fonts is based on Article 6(1)(f) of the GDPR. The website operator has a legitimate interest in the uniform display of typography on the website. If appropriate consent has been obtained, processing will take place solely on the basis of Article 6(1)(a) of the GDPR and § 25(1) of the TTDSG, insofar as the consent covers the storage of cookies or access to information on the user's device (e.g., device fingerprinting) as defined by the TTDSG. Consent can be revoked at any time.
+
+If your browser does not support Google Fonts, a default font installed on your computer will be used.
+
+For more information about Google Fonts, please visit https://developers.google.com/fonts/faq and refer to Google's Privacy Policy: https://policies.google.com/privacy?hl=de.
+
+The company is certified under the "EU-US Data Privacy Framework" (DPF). The DPF is an agreement between the European Union and the USA that aims to ensure compliance with European data protection standards in data processing in the USA. Every company certified under the DPF commits to adhering to these data protection standards. For further information, please refer to the provider at the following link: https://www.dataprivacyframework.gov/s/participant-search/participant-detail?contact=true&id=a2zt000000001L5AAI&status=Active.
+
 <hr>
 
 # Datenschutzerklärung
@@ -362,3 +374,15 @@ Wir verwenden Formspree, einen Dienst, der es uns ermöglicht, Formulare auf uns
 Wir verwenden Calendly, ein Planungstool, um die Buchung von Terminen über unsere Website zu erleichtern. Wenn Sie Calendly verwenden, um einen Termin zu vereinbaren, werden die von Ihnen angegebenen Daten, wie Ihr Name, Ihre E-Mail-Adresse und der gewählte Zeitraum, von Calendly verarbeitet. Diese Daten sind notwendig, um Ihren Termin zu koordinieren und zu verwalten.
 
 Die Datenschutzerklärung von Calendly gilt für die über ihre Plattform gesammelten Daten, und Sie können diese auf ihrer Website einsehen, um weitere Details darüber zu erfahren, wie Ihre Informationen verarbeitet werden. Durch die Nutzung von Calendly stimmen Sie der Verarbeitung Ihrer Daten gemäß ihren Bedingungen und ihrer Datenschutzerklärung zu, die unter [Privacy Policy](https://calendly.com/legal/privacy-notice){:target="_blank"} und unter [Terms and Conditions](https://calendly.com/legal){:target="_blank"} verfügbar sind.
+
+#### Google Fonts
+
+Diese Seite nutzt zur einheitlichen Darstellung von Schriftarten so genannte Google Fonts, die von Google bereitgestellt werden. Beim Aufruf einer Seite lädt Ihr Browser die benötigten Fonts in ihren Browsercache, um Texte und Schriftarten korrekt anzuzeigen.
+
+Zu diesem Zweck muss der von Ihnen verwendete Browser Verbindung zu den Servern von Google aufnehmen. Hierdurch erlangt Google Kenntnis darüber, dass über Ihre IP-Adresse diese Website aufgerufen wurde. Die Nutzung von Google Fonts erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat ein berechtigtes Interesse an der einheitlichen Darstellung des Schriftbildes auf seiner Website. Sofern eine entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TTDSG, soweit die Einwilligung die Speicherung von Cookies oder den Zugriff auf Informationen im Endgerät des Nutzers (z. B. Device-Fingerprinting) im Sinne des TTDSG umfasst. Die Einwilligung ist jederzeit widerrufbar.
+
+Wenn Ihr Browser Google Fonts nicht unterstützt, wird eine Standardschrift von Ihrem Computer genutzt.
+
+Weitere Informationen zu Google Fonts finden Sie unter https://developers.google.com/fonts/faq und in der Datenschutzerklärung von Google: https://policies.google.com/privacy?hl=de.
+
+Das Unternehmen verfügt über eine Zertifizierung nach dem „EU-US Data Privacy Framework“ (DPF). Der DPF ist ein Übereinkommen zwischen der Europäischen Union und den USA, der die Einhaltung europäischer Datenschutzstandards bei Datenverarbeitungen in den USA gewährleisten soll. Jedes nach dem DPF zertifizierte Unternehmen verpflichtet sich, diese Datenschutzstandards einzuhalten. Weitere Informationen hierzu erhalten Sie vom Anbieter unter folgendem Link: https://www.dataprivacyframework.gov/s/participant-search/participant-detail?contact=true&id=a2zt000000001L5AAI&status=Active.
