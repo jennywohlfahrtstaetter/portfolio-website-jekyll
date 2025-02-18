@@ -156,7 +156,6 @@ a:hover { color: #a2745c; }
     color: white;
 }
 
-
 .cta-link {
     text-decoration: none;
     display: flex;
@@ -350,6 +349,7 @@ form .button2 {
     font-weight: normal;
   }
 
+hr {border: none; border: 0.5px solid; border-color: gainsboro; margin-top: 5%;}
 
 /* ------------ Markdown Styles -------------  */
 
