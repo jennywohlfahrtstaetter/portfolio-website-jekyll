@@ -126,6 +126,7 @@ a:hover { color: #a2745c; }
 .button {
     text-decoration: none;
     border: 2px solid; 
+    border-radius: 5px;
     padding: 0.5rem 1rem;
     display: inline-block;
     font-weight: 400;
@@ -135,6 +136,7 @@ a:hover { color: #a2745c; }
 .button2 {
     text-decoration: none;
     border: 2px solid; 
+    border-radius: 5px;
     padding: 0.5rem 1rem;
     display: inline-block;
     font-weight: 400;
