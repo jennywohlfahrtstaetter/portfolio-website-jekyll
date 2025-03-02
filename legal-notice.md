@@ -23,7 +23,7 @@ Lofererstraße 99 <br>
 6322 Kirchbichl, Austria
 
 ##### Kontakt:
-Email: <a href="mailto:onememorydesign@gmail.com">onememorydesign@gmail.com</a>
+Email: <a href="mailto:hello@onememorydesign.com">hello@onememorydesign.com</a>
 
 
 ##### Website:
